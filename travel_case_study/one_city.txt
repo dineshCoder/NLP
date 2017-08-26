@@ -1,0 +1,1690 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 \
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxAarhusxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\
+\
+\{\{pagebanner|Aarhus banner.jpg|caption=ARoS (Aarhus Art Museum)\}\}\
+[[File:Your rainbow panorama p\'e5 taget af ARoS Aarhus Kunstmuseum.jpg|thumb|Aarhus skyline with ARoS Art Museum and the landmark clock tower of Aarhus City Hall.]]\
+[[File:Aarhus Den Gamle By 10.JPG|thumb|Den Gamle By (The Old Town)]]\
+'''[http://www.visitaarhus.com/ Aarhus]''' (also written \'c5rhus and pronounced Oar-Hoos) is the main city on the [[Jutland]] peninsula in [[Denmark]]. With a population of just over 300,000 people (1,200,000 in the East Jutland metropolitan area), it holds the titles of Denmark's second largest city and the city with the youngest population. \
+\
+==Understand==\
+Aarhus offers an elegant mix of cosmopolitan city and quaint small-town charm, with wonderful pubs, restaurants and romantic places. Being a university city and centre for education, Aarhus has a large student population and the average age of its inhabitants is among the lowest in Europe.\
+\
+Some interesting facts:\
+* Aarhus hosts the largest cultural festival in Scandinavia, known as "[http://www.aarhusfestuge.dk/aarhusfestuge/festuge.nsf/links/English Aarhus Festuge]" (Aarhus Festival). It is held every year for 10 days in August-September.\
+* Aarhus is part of the East Jutland Metropolitan area, which by far has the fastest growing population in Denmark.\
+* Aarhus has for many years been known as a nesting box for Danish musicians and bands, primarily in main stream pop and rock music.\
+* Aarhus is known as ''The City of Smiles'' (da. ''Smilets By''). It probably just started as a slogan to improve the city's image, but it has nevertheless caught on, and has for many years been a common nickname for the city.\
+* Aarhus is also known as ''The City of Caf\'e9s'' - visit the city and you will soon know why.\
+* There has been a veritable building boom in Aarhus in recent years, with many large scale projects. Several are already finished, but many are still being planned, including some tall highrises.\
+* The '''Tourist Information Office''' has been closed and replaced with a few information screens across the city.\
+\
+==Talk==\
+Many Danes are often reserved towards strangers, but friendly towards tourists, and will normally be happy to give you directions and advice in good English. As Aarhus is a big city, it will hardly be a problem getting help or directions in near-fluent English.\
+\
+==Get in==\
+\
+===By train===\
+[[File:\'c5rhus station 2011 2.jpg|thumb|Arriving at the Aarhus Central Station.]]\
+Trains run once or twice an hour from Copenhagen (K\'f8benhavn) to Aarhus and take about three hours. As of July 2015, the adult fare is DKK382, with an additional DKK30 to reserve a seat. Discounts are available for persons 25 years old or younger (if buying a ''WildCard''), or older than 65 years\'97both concessions cost DKK191 (half price). Discounts can also be obtained by buying ''Orange Tickets'' some weeks in advance. Details on '''[http://www.dsb.dk DSB]''''s homepage.\
+\
+It is also possible to catch a train to any other part of the Jutland peninsula, though connections are usually bad. Trains from [[Hamburg]] arrive several times a day, but they are expensive (around \'8050 one way). Nevertheless, if you book about two months before travelling, you can buy one of the few tickets for \'8029/39 (called "Europa-Sparpreis"). For more information check out the website of the German national railway company '''[http://www.db.de DB]'''\
+\
+Tickets used in trains are also usable in buses, and if you are travelling from Copenhagen, you can use your ticket for the rest of the day to get around Aarhus at no extra expense.\
+\
+===By bus===\
+Buses have become an increasingly attractive way of travelling between Aarhus and Copenhagen due to their significantly lower prices. An inter-city bus takes roughly an hour longer than an equivalent express train, but the fares are typically between 40% (standard tickets) and 90% (the cheapest Saver tickets) lower.\
+* \{\{listing\
+| name=EkspresRuten | alt= | url=http://EkspresRuten.dk/ | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2016-03-17\
+| content=They operate buses to and from Copenhagen (next to the Central Station) and Roskilde (Trekroner Station), as well as several other Danish cities.\
+\}\}\
+* \{\{listing\
+| name=Abildskou | alt= | url=http://2.abildskou.dk/go.asp?LangRef=4 | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2016-03-17\
+| content=They operate buses from Copenhagen (Valby Station), Copenhagen Airport, Hamburg Airport and Berlin.\
+\}\}\
+* \{\{listing\
+| name=R\'f8dbillet | alt= | url=http://r\'f8dbillet.dk/ | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2016-03-17\
+| content=They operate buses to and from Copenhagen (next to the Central Station) as well as several other Danish cities.\
+\}\}\
+* \{\{listing\
+| name=Eurolines | alt= | url=http://www.eurolines-travel.com/ | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2016-03-17\
+| content=They operate buses to Hamburg, from where you can continue to any other European city.\
+\}\}\
+\
+===By boat===\
+[[File:Mols-Linien Katexpress (11834616506).jpg|thumb|The Katexpress 1 is one of two high speed catamarans ferrying passengers and cars for Mols Linien.]]\
+\
+* \{\{listing\
+| name=Mols Linien | alt= | url=http://www.mols-linien.dk/ | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2016-03-17\
+| content=They operate ferries to [[Odden]] and [[Kalundborg]] on the north-west coast of [[Zealand]].\
+\}\}\
+\
+===By plane===\
+* \{\{listing\
+| name= Aarhus Airport | alt= | url=http://www.aar.dk/default.asp?id=87 | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2016-03-17\
+| content= Aarhus airport is serviced by a number of major European airlines. Flights from London Stansted Airport are serviced also by the low-cost flight provider Ryanair. Approximately a 45 minute bus-ride away. [http://www.aar.dk/default.asp?id=83 X925 Airport buses] arrive and depart from Baneg\'e5rdspladsen immediately in front of the main railway station: a one-way ticket costs DKK100. Tickets are sold on the bus. Accepted currencies are Danish crowns, US dollars, pounds sterling and euro. Major credit cards are also accepted.\
+\}\}\
+* \{\{listing\
+| name=Billund Airport | alt= | url=http://www.billund-airport.com/ | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2016-03-17\
+| content= This airport offers many flight connections and is approximately a 90 minute bus-ride away. Airport buses arrive and leave from Radisson SAS Hotel, a one-way ticket costs DKK180. Tickets are sold on the bus. Accepted currencies are Danish crowns and euro. Credit cards are accepted.\
+\}\}\
+\
+==Get around==\
+\{\{Mapframe|56.156|10.207|zoom=14|height=|width=560|layer=|staticmap=|align=|name=\}\}\
+===By foot===\
+The entire city is clean and well organized which makes '''walking''' an excellent and enjoyable way to get around. You can pick up a leaflet called "Aarhus - five historical walks". The walks are all short and you could do them all easily in a day as they are all in the city centre. If you want to venture further out, several routes have been established for both exercise and leisurely strolls. Known as "[http://www.naturhistoriskmuseum.dk/Files/Filer/Solstraaler/a5-folder-UK.pdf sunbeams]", they avoid heavily trafficked roads and includes nature experiences. \
+\
+===By bicycle===\
+Rent a bike in [http://www.bikes4rent.dk/ Bikes4Rent] or better yet, '''borrow a free [http://www.aarhus.dk/sitecore/content/Subsites/AarhusBycykel/Home/English.aspx?sc_lang=da City Bike]''', available at around fifty spots around the city (check the link to see a map). You just need to insert a DKK 20 coin and when you park the bike at another "bike station", you get it back. If you choose to bike after dark, remember to bring your own bicycle lights; it is illegal to ride without them and you could get fined by the police if you forget. The City Bikes are available from 1 April to 20 October.\
+\
+===By bus===\
+Bus tickets for travel within the city limits ([http://www.midttrafik.dk/priser+og+billetter/priser/Aarhus+kommune Aarhus Kommune] limits) are DKK20 - or DKK10 if you are under 16 years of age. Tickets are also available in 10-trip tickets, that vary in price depending on how far you want to go (DKK120-220). Cheaper cards are also available for people under 16 year olds. Finally there are tickets that allow you to ride all you want for 30 days, with prices vary depending on how far you wish to travel. For planning bus trips, it is recommended to use the official travelplanner website for all Danish public transport: [http://www.rejseplanen.dk/ Rejseplanen].\
+\
+You can also buy a cheap '''[http://www.visitaarhus.com/international/en-gb/menu/turist/om-aarhus/sightseeing/aarhuspas/produktside.htm?id=16515& Aarhus Pass]''' which covers all bus transport and all the museums.\
+\
+===By taxi ===\
+* \{\{listing\
+| name=Airporttaxi | alt= | url=http://www.airporttaxi.dk  | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2016-03-17\
+| content=Book and pay for your taxi online. 10% savings .\
+\}\}\
+* \{\{listing\
+| name=Aarhus Taxa | alt= | url=http://www.aarhus-taxa.dk  | email=\
+| address= | lat= | long= | directions=\
+| phone=89 48 48 48  | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2016-03-17\
+| content=\
+\}\}\
+* \{\{listing\
+| name=Taxamotor Aarhus | alt= | url=http://www.taxamotor.dk/ | email=\
+| address= | lat= | long= | directions=\
+| phone=70 33 83 38  | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2016-03-17\
+| content=\
+\}\}\
+* \{\{listing\
+| name=JetCab | alt= | url=http://www.jetcab.dk/cykeltaxa.html | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2016-03-17\
+| content=(Bike Taxi) - No phone number\
+\}\}\
+\
+==See==\
+[[File:Musikhusparken 06.JPG|thumb|ARoS Art Museum]]\
+[[File:Aarhus Universitets hovedbygning set fra parken.jpg|thumb|Aarhus University Park]]\
+[[File:Arne jacobsen, aarhus town hall 1937-1942.jpg|thumb|Interior detail from Aarhus City Hall]]\
+[[File:Aarhus domkirke.jpg|thumb|Aarhus Cathedral at the square of ''Store Torv''.]]\
+[[File:Marseliborg Slot set fra Mindeparken.jpg|thumb|Mindeparken and the Marselisborg Palace.]]\
+Anyone who appreciates European architecture will find many points of interest in the city, not least the '''Concert Hall''' ("Musikhuset" from 1982 by Johan Richter), located next to the new modern arts museum ARoS. Many attractions in Aarhus are free and the public space has many free facilities, events and an interesting street life, so even on a budget you can have an enjoyable experience. \
+\
+* \{\{see\
+| name=ARoS | alt=Aarhus Art Museum | url=http://www.aros.dk | email=\
+| address=Aros All\'e9 2 | lat= | long= | directions=\
+| phone=+45 8 730 66 00 | tollfree= | fax=\
+| hours=Tu-Su 10-17, except W 10-22 | price=90 DKK, under 18's free\
+| content=One of Denmark\'92s largest museums. Be sure to check out the '9 Spaces', a maze of black-walled galleries. A recent addition by Icelandic-Danish artist Olafur Eliasson, "Your Rainbow Panorama", offers a splendid roof-top view of the city inside a circular walkway with rainbow-coloured windows. There is a caf\'e9 with dining options at the lounge area at the entrance and a celebrated high-end gourmet restaurant ([http://en.aros.dk/visit-aros/aros-food-hall/ ARoS Food Hall]) at the top floor of the museum.\
+\}\}\
+\
+* \{\{see\
+| name=R\'e5dhuset | alt=The Town Hall | url=https://www.aarhus.dk/da/omkommunen/organisation/teknik-og-miljoe/Center-for-Administration-og-Ejendomme/Aarhus-Raadhus.aspx | email=\
+| address=R\'e5dhuspladsen 2 | lat= | long= | directions=\
+| phone=+45 89 40 20 00 | tollfree= | fax=\
+| hours= | price=\
+| content=This building is considered one of the highlights of Danish architecture, designed by the famous architects Arne Jacobsen and Erik M\'f8ller in cooperation with equally celebrated furniture designer Hans Wegner. Clad in grey Norwegian marble, it might appear bland to the untrained eye from the outside, but the indoor design is much more intriguing. Every Saturday from 10 to 11:30 guided tours are arranged around the interior of the building. For a fee, you can visit the clock tower and enjoy the view. There are several interesting statues around the town hall. Enjoy the dramatic bronze statue and fountain of "Agnethe og Havmanden" near the city entrance towards the Central Station. It depicts a scene from a Danish fairy tale about Agnethe who falls in love with a merman. From here you can walk through the city entrance and the Town Hall Park and observe more bronze statues and memorial stones. The park is quite lively in the summer, as people tend to flock here as soon as the Sun is out. Don't miss the Grisebr\'f8nden statue (the well of the pigs) with the drooling and peeing pigs, at the Town Hall Square in front of the town hall main entrance. You can find good hotdogs at the Town Hall Square too.\
+\}\}\
+\
+* \{\{see\
+| name=Den Gamle By | alt=The Old Town | url=http://www.dengamleby.dk/english.htm | email=\
+| address=Viborgvej 2 | lat= | long= | directions=\
+| phone=+45 86 12 31 88 | tollfree= | fax=\
+| hours= | price=\
+| content=Collection of 75 original Danish buildings dating from 1597 to 1909 moved to create an open-air museum village; there are historical shops and restaurants, some true to the period. A few volunteers and staff members are dressed up in historic clothes and sometimes events are arranged. You can buy a trip with an authentic horse carriage around the museums cobblestone streets or through the park. Be sure to spend some time in the large surrounding '''Botanical Garden''' and the new '''[http://sciencemuseerne.dk/en/botanical-garden/ Greenhouses]'''. Both are free, but not the museum.\
+\}\}\
+\
+* \{\{see\
+| name=The University Park | alt=Aarhus University Campus | url=http://www.aarhuskommune.dk/portal/borger/byplan_arkitektur/arkitektur_og_design/aarhus_town_hall | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| content=Designed by famous Danish architects C.F.M\'f8ller, Kaj Fisker (buildings) and C. Th. S\'f8rensen (landscape garden) is another noteworthy piece of architecture. Here you find the State Library, a landmark highrise in characteristic yellow brick, '''[http://antikmuseet.au.dk/ Antikmuseet]''' a museum of antique Mediterranean culture and art, a '''[http://www.naturhistoriskmuseum.dk/uk/info/infoUK.htm Natural History Museum]''', and the '''[http://sciencemuseerne.dk/en/steno-museum/ Steno Museum]''' with historic collections on science and medicine. The park itself is worth a visit on its own, year round.\
+\}\}\
+\
+* \{\{see\
+| name=Dokk1 | alt=Dock-one, Dokken, Urban Media Space | url=https://dokk1.dk/ | email=\
+| address=Hack Kampmanns Plads 2 | lat= | long= | directions=\
+| phone=+45 89 40 92 00 | tollfree= | fax=\
+| hours=8-22 (Mon-Fri) 10-16 (Sat-Sun) | price=Free\
+| content=This large state-of-the-art public library at the harbour front opened in the summer of 2015. It is the largest public library in northern Europe and is designed as a public meeting place for all kinds of activities. Enjoy the peculiar and futuristic architecture or engage in the library's many arrangements. Guided tours are arranged with regular intervals. Good caf\'e9 and an interesting four-section outside playground (adults may try the slides too!). There is a specialized toddlers' play section inside too. Large subterranean robotic car park below the building. Great for kids and adults alike. The whole building is accessible to wheelchairs.\
+\}\}\
+\
+* \{\{see\
+| name=Aarhus Domkirke | alt=Aarhus Cathedral | url=http://www.aarhus-domkirke.dk | email=\
+| address=Domkirkepladsen 2 | lat= | long= | directions=\
+| phone=+45 86 20 54 00 | tollfree= | fax=\
+| hours=May-Sep 9.30-16,Oct-Apr 10-15 | price=Free (a fee for the tower)\
+| content=The beautiful cathedral is over 800 years old, and both the longest and tallest in Denmark. Next to it, is Aarhus Cathedral School, also with an 800 year history. Concerts are sometimes arranged in the church. The tower offers a good view. Across the cathedral is an old subterranean monks cellar, it was formerly part of the cathedral complex, with an underground tunnel, now a bar and nightclub.\
+\}\}\
+\
+* \{\{see\
+| name=Kvindemuseet | alt=Women's Museum | url=http://www.kvindemuseet.dk/uk.aspx | email=\
+| address=Domkirkepladsen 5 | lat= | long= | directions=\
+| phone=+45 86 18 64 70 | tollfree= | fax=\
+| hours=Tu-Su 10-17, except W 10-20 | price=40 DKK\
+| content=Residing in the old City Hall building right next to the Aarhus Cathedral, this place focuses on the importance of gender in both previous times and today's society. The Women's Museum presents changing exhibitions on the cultural history of gender and possess a fair collection of historical stuff related to women specifically. You can look through or buy publications on former exhibitions that you missed or general books related to the role of gender. Some titles are in English. The Women's Museum has a good nice old-fashioned decorated caf\'e9 and on Sundays lunch is included in the entry fee.\
+\}\}\
+\
+* \{\{see\
+| name=Aarhus Viking Museum | url=http://www.vikingemuseet.dk | email=\
+| address=Skt. Clemens Torv 6 | lat= | long= | directions=\
+| phone=+45 89 42 11 00 | tollfree= | fax=\
+| hours=M-F 10:00-16:00, except Th 10:00-17:30 | price=Free\
+| content=Small Viking museum located in the basement of the Nordea Bank next to the cathedral.\
+\}\}\
+\
+* \{\{see\
+| name=Vor Frue Kirke | alt= | url=http://www.aarhusvorfrue.dk | email=\
+| address=Vestergade 21 | lat= | long= | directions=\
+| phone=+45 86 12 12 43 | tollfree= | fax=\
+| hours= | price=Free\
+| content=Church with an interesting crypt church in the basement, built about 1060. It is one of the oldest still existing stone churches in Scandinavia, maybe the oldest. Through a door on the left inside the church you can enter a former monastery with an atrium garden.\
+\}\}\
+\
+* \{\{see\
+| name=Kunsthal Aarhus | alt= | url=http://kunsthalaarhus.dk/en | email=\
+| address=J.M. M\'f8rks Gade 13 | lat= | long= | directions=Go to M\'f8lleparken. Kunsthal Aarhus is located across the river.\
+| phone=+45 86 20 60 50 | tollfree= | fax=\
+| hours=Tu-Su 10:00-17:00, except W 10:00-21:00 | price=Free (2015)\
+| content=An arts centre, promoting contemporary art. Built and established in 1917, it is one of the oldest arts centres in Europe.\
+\}\}\
+\
+* \{\{see\
+| name=Mindeparken | alt=Marselisborg Mindepark | url= | email=\
+| address= | lat= | long= | directions=Drive south along the coastal route.\
+| phone= | tollfree= | fax=\
+| hours= | price=Free\
+| lastedit=2015-09-08\
+| content=This memorial park offers a panoramic view of the Bay of Aarhus. Many larger events are held here and when the weather permits, citizens flock to relax here. The park has several interesting sections of different designs, including a grove of Japanese cherry trees and a flower and sculpture garden. It also contains the largest World War I memorial in the country, commemorating 4,000 dead Danish soldiers. Many interesting places are nearby, including the '''[http://kongehuset.dk/Slotte-og-Kongeskibet/marselisborg-slot/marselisborg-slot Marselisborg Palace]''', '''Aarhus Forestry Botanical Garden''', the '''[http://www.parkarena.dk/ Ceres Park & Arena]''' stadium, '''[http://www.danskhv.dk/jvb/ Aarhus Racecourse]''' and the extensive '''Marselisborg Forests'''.\
+\}\}\
+\
+* \{\{see\
+| name=Moesgaard Museum | alt= | url=http://www.moesgaardmuseum.dk/en/ | email=moesgaard@moesmus.dk\
+| address=Moesg\'e5rd All\'e9 20 | lat=56.0888 | long=10.2226 | directions=Bus 18 from central Aarhus starts and terminates outside the museum. DKK 20.\
+| phone=+45 8739 4000 | tollfree= | fax=\
+| hours=10 am - 5 pm, except Wednesday 10 am - 9 pm. Closed most Mondays - see website for exceptions | price=DKK 130 (adults), DKK 110 (students and over-65), free for children 17 and under\
+| lastedit=2015-07-25\
+| content=Stupendous architecture: a vast prism of a building that stretches down its grassy hill. The central staircase provides an innovative route into human evolution and prehistory. A fantastic place to study Danish prehistory in particular\'97the main attractions are two finds from the Iron Age: Grauballe Man, the only completely preserved bog body, and the impressive sacrifice of weapons from Illerup \'c5dal. The museum re-opened in in a brand new iconic building in October 2014. Excellent museum restaurant and caf\'e9. The large historical landscape below the museum is also worth a visit in itself and is free and accessible year round.\
+\}\}\
+\
+==Do==\
+Enjoy one of the many '''nature''' offerings, all of which can be reached by foot from the city: ''Botanisk Have'' (The Botanical Garden), ''Universitetsparken'' (The University Park), ''Vennelystparken'', ''Riis Skov'' (Riis Forest), ''Havreballe Skov'' (Havreballe Forest), and ''Marselisborg Mindepark'' adjacent to Marselisborg Palace, the Queen's summer residence (the private palace garden and park is open to the public, when the Queen is not in residence). The beautiful 8&nbsp;km. stretch of forest (''Marselisborg Forests'') south of the city is equally suited for a hike, especially the old forest around the ''Moesg\'e5rd Museum'' and ''Skovm\'f8llen'' (Forest Mill). The ''Brabrand Lake'' trail, starting off from the inner city, is ideal for hiking, biking and rollerskating, as there are 10&nbsp;km of flat asphalted paths without any car traffic.\
+\
+=== Theatre & Cinema ===\
+[[File:Aarhus Theater Konzerthaus 1900 Entwurf H. Kampmann Teater Musikhuset Danmark Foto 2010 Wolfgang Pehlemann Steinberg IMG 6492.jpg|thumb|Aarhus theatre]]\
+For independent and European cinema, visit '''[http://www.paradisbio.dk/ \'d8st for Paradis ]'''. For mainstream movies, visit '''[http://www.cinemaxx.dk/aarhus/ Cinemaxx]''' in Bruuns Galleri, '''[http://www.biobooking.dk/mxcms.aspx?itemId=2&cinemaId=5 Biocity]''' opposite from the train station or '''[http://www.biobooking.dk/mxcms.aspx?itemId=2&cinemaId=6 Metropol]''' in Tr\'f8jborg.\
+\
+* \{\{do\
+| name=Aarhus Studenternes Filmklub | url=http://filmklub.au.dk/index.php?lang=en&action=display_home&selector= | email=\
+| address=Ny Munkegade 1530 | lat= | long= | directions=\
+| phone=+45 86 12 74 88 | tollfree= | fax=\
+| hours= | price=DKK60\
+| content=The film club of the Aarhus University, but open for everyone.\
+\}\}\
+\
+* \{\{do\
+| name=Slagtehal 3 | url=http://www.slagtehal3.dk | email=\
+| address=Mejlgade 50 | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours= | price=DKK50\
+| content=This should be your choice, if you're into horror movies, which are shown every Thursday.\}\}\
+\
+* \{\{do\
+| name=Aarhus Theater | alt= | url=http://www.aarhusteater.dk | email=\
+| address=Teatergaden | lat= | long= | directions=\
+| phone=+45 89 33 23 00 | tollfree= | fax=\
+| hours= | price=\
+| content=The city's main theatre. A luscious outstanding art nouveau interior design. You can dine or have a drink or coffee at [http://cafehack.dk/ Caf\'e9 Hack] to the left of the main entrances.\
+\}\}\
+\
+* \{\{do\
+| name=Svalegangen | alt= | url=http://www.svalegangen.dk/ | email=\
+| address=Rosenkrantzgade 21 | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2015-05-15\
+| content=The second-largest theatre in Aarhus, conveniently located in Rosenkrantzgade just off the major pedestrian street Ryesgade.\
+\}\}\
+\
+=== Concerts ===\
+[[File:Aarhus musichouse (11834397843).jpg|thumb|Musikhuset - The Concert Halls.]]\
+* \{\{do\
+| name=Musikhuset | alt=The Concert Hall | url=http://www.musikhuset-aarhus.dk/default.aspx?areaID=5 | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2015-12-31\
+| content=The largest concert hall in Scandinavia, Musikhuset has seating for more than 3,000 people in six halls and hosts a large variety of events and concerts throughtout the year. You can hear large classical performances, rock and jazz concerts, but also operas, musicals, chamber music and smaller intimate concerts at smaller scenes. Good restaurant and caf\'e9. \
+\}\}\
+\
+* \{\{do\
+| name=Voxhall | alt= | url=http://www.voxhall.dk/ | email=\
+| address=Vester Alle 15 | lat= | long= | directions=At M\'f8lleparken in the city centre.\
+| phone=+45 87 30 97 97 | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2016-03-16\
+| content=Voxhall hosts many concerts of modern contemporary music with a good, tightly planned schedule. Mostly rock and pop, but not exclusively. Along with Train, Voxhall is the preferred scene for most larger rock and pop concerts. Many concerts with international bands from abroad. A relatively small scene, but room for many people. The associated venue of '''Atlas''' is just as active, but mainly focusses on other genres, including world music and folk. Tickets are usually bought at the door, but if you're going to a major concert, buy before-hand! Nice wine and tapas bar in the building at [http://www.pica-pica.dk/ Pica Pica].\
+\}\}\
+\
+* \{\{do\
+| name=Train | alt= | url=http://www.train.dk/in_english.asp | email=\
+| address= | lat= | long= | directions=At First Hotel Atlantic at the harbour front.\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2015-12-31\
+| content=Train is equipped with up-to-date technology and hosts a large variety of modern contemporary music concerts. From rock, pop and jazz to hip-hop and electronica. There is a an associated lounge, nightclub and cocktailbar by the name of Kup\'e9. \
+\}\}\
+\
+* \{\{do\
+| name=Gyngen | alt= | url=http://www.gyngen.dk/ | email=\
+| address=Mejlgade 53 | lat= | long= | directions=In a backyard at Mejlgade.\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2015-12-31\
+| content=Gyngen is a music venue, restuarant and caf\'e9 all in one. A small scene and with less room than Voxhall and Train, mostly featuring lesser known bands and artists in a relaxed athmosphere.\
+\}\}\
+\
+* \{\{do\
+| name=Fatter Eskil | alt= | url=http://www.fattereskil.dk/ | email=\
+| address=Skolegade 25 | lat= | long= | directions=Behind the Aarhus theatre in the lively Skolegade near Aarhus River.\
+| phone= | tollfree= | fax=\
+| hours=Closed Sundays and Mondays | price=DKK 40-80\
+| lastedit=2015-12-31\
+| content=Housed in an old building from the 1700s in the city centre, Fatter Eskil is a popular music venue and bar. A diverse mix of genres with bands from Denmark. Fatter Eskil is mostly known for blues and rock. Free admission until 22 hours usually.\
+\}\}\
+\
+* \{\{do\
+| name=Vestergade 58 | alt=V58 | url=http://www.nyv58.dk/ | email=\
+| address=Vestergade 58 | lat= | long= | directions=Near the western end of Vestergade\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2016-01-03\
+| content=In a backyard of a beautifully restored yellow-black timber-framed merchant's house in Vestergade, Vestergade 58 has been a small popular music venue for 40 years. A good mix of genres. Both lesser known bands and international stars occasionally. V58 is also a bar and has a separate scene used for stand-up comedy nights, where you can get yourself a brunch on Sunday mornings.\
+\}\}\
+\
+* \{\{do\
+| name=Radar | alt= | url=http://godsbanen.dk/aktoerer/radar/ | email=\
+| address= | lat= | long= | directions=Behind the Scandinavian Center and the Concert Halls\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2015-12-31\
+| content=Located in the newly built culture centre of Godsbanen, Radar hosts many concerts and music events.\
+\}\}\
+\
+* \{\{do\
+| name=Studenterhus Aarhus | alt= | url=http://www.studenterhusaarhus.dk/?q=en | email=\
+| address=Nordre Ringgade | lat= | long= | directions=At the northern outskirts of the University campus.\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2015-12-31\
+| content=Built for student activities and assemblies and equipped with a cantina, Studenterhus Aarhus is also hosting cultural events and concerts. The largest scene of Stakladen has modern sound technology and room for 750 standing or 450 seated guests. Concerts every week. \
+\}\}\
+\
+=== Festivals and recurring events ===\
+[[File:Verdensscenen audience.jpg|thumb|Concert (Aarhus Festuge)]]\
+* \{\{do\
+| name=Aarhus Festuge | alt= | url=http://aarhusfestuge.dk/en/about-aarhus-festival/ | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours= | price=Free\
+| lastedit=2015-09-12\
+| content=10 day multi-cultural festival every year in late August, early September. The festival draws many participants and visitors and it is the largest event of its kind in northern Europe. The city is filled with music, theatre, food, experimental architecture, film, literature and other events and is decorated for partying.\
+\}\}\
+* \{\{do\
+| name=Northside | alt= | url=http://www.northside.dk/ | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2015-09-12\
+| content=3 day annual music festival every summer with three stages. Many well-known and international stars.\
+\}\}\
+* \{\{do\
+| name=Classic Race Aarhus | alt= | url=http://www.craa.dk/ | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2015-09-12\
+| content=An annual race and event every year in May with classic cars, including sportscars. At Mindeparken.\
+\}\}\
+* \{\{do\
+| name=Sculpture by The Sea - Aarhus | alt= | url= | email=\
+| address= | lat= | long= | directions=Go to Tangkrogen to start your tour\
+| phone= | tollfree= | fax=\
+| hours= | price=Free\
+| lastedit=2015-09-12\
+| content=A local version of the famous Australian Sculpture by The Sea event. Arranged by ARoS and the crown-prince couple every second year, next time in 2017. Hundreds of sculptures are installed at the beach, south of the city and can be viewed here for about a month. Each event has drawn c. 500,000 guests. Guided tours for a fee.\
+\}\}\
+* \{\{do\
+| name=Aarhus International Jazz Festival | alt= | url=http://www.jazzfest.dk/ | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2015-09-12\
+| content=Held every year in the summer, following the Copenhagen Jazz Festival. Many Danish and international stars as well as concerts with both local and up and coming talents. Hundreds of concerts, many free concerts in the public space.\
+\}\}\
+* \{\{do\
+| name=Moesg\'e5rd Vikingetr\'e6f | alt= | url=http://www.moesgaardmuseum.dk/vikingetraef/ | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2015-09-12\
+| content=A large Viking event held every summer in July at Moesg\'e5rd beach. Viking re-enactments, markets, workshops, roleplays.\
+\}\}\
+\
+=== Watersports ===\
+If you are in Aarhus in the summer, there are good opportunities for outdoor watersports and most of the coastline of the bay is accessible and suitable for leisure activities. Most beaches are sandy and child friendly with shallow waters. With two marinas in the central harbour and with many marinas spread across the entire bay area, some tourists choose to visit Aarhus from the waterside in the summer, in their own ship.\
+\
+[[File:RisskovStrand.jpg|thumb|There are several beach parks in Aarhus. The whole Bay of Aarhus is popular with activities in the summer.]]\
+There are [http://www.arrangoeriaarhus.dk/da/Vaelg-sted/Strande-og-naturomraader.aspx four beaches] worthy of special mention: The beach park of '''\'c5krogen''' in Eg\'e5 north of the city, '''Bellevue Beach Park''' in the city district of Risskov, the sea bath of '''Den Permanente''' below the forest of Riis Skov in the city centre and the beach park of '''Moesg\'e5rd Strand''' in the south of the Marselisborg Forests. There are several other small spots inbetween. Be aware that, every time the cat-link catamaran ferries enter and leave the bay, they cause an increased wave activity in the entire bay area. The phenomenon is harmless, but some small children are frightened by the experience, especially when it happens on an otherwise calm day. The waves appear quite suddenly; they only become noticeable when they break at the shoreline (like mini-tsunamis), lasting for 5-10 minutes. In theory you could predict it by watching for the catamarans on the water, glance at their schedule or be attentive to the increasing waves. Or you might simply choose not to care, as most people.\
+\
+There are a total of [http://www.vigirbyenpuls.dk/da/Svoemmehaller.aspx four public indoor swimming halls] throughout the city that can be used most of the year. Be sure to check up, as some are closed for extensive periods in the summer. Same prize at all venues, with discounts for children and groups. You can rent towels and bathing suits at some places, but it is expensive. ''Badeanstalten Spanien'' in the city centre is special for several reasons and is the only swimming-complex with a dedicated well-ness section. \
+\
+* \{\{do\
+| name=Badeanstalten Spanien | alt= | url=http://www.badspa.dk | email=\
+| address=Spanien 1 | lat= | long= | directions=Go to the bus terminal near the harbour front\
+| phone=+45 89 40 20 70 | tollfree= | fax=\
+| hours=M-Th 8-20, F-Su 8-16 | price=DKK 45 (DKK 85 for the wellness section)\
+| content=Recently renovated historic bath house, located at the central bus terminal, with a large indoor pool, spa and saunas. Many families and children in the pool on weekends. Luxury wellness section with men and women mixed, including more saunas, steambaths, spa, infrared heat lamp, a number of other facilities and occasional evening events. The complex also comprise a separate fitness-center and has a couple of small boutiques offering massage, beauty treatments, wellness products and a dining caf\'e9. The building is originally from the early 1930s, it is a listed building and is a fine example of functionalist architecture.\
+\}\}\
+\
+* \{\{do\
+| name=Aarhus Sv\'f8mmestadion | alt= | url=http://www.svst.dk/ | email=\
+| address=F. Vestergaards Gade 5 | lat= | long= | directions=Go to Ingerslevs Boulevard on Frederiksbjerg in the city centre\
+| phone=+45 86 12 86 44 | tollfree= | fax=\
+| hours= | price=DKK 45 (special prizes for children and groups)\
+| content=Is a better option than Badeanstalten Spanien, if what you want to do is actually to swim. Outdoor basin too with two diving boards, but only open in the summer. You must be able to swim to use the basins here. Under renovation in 2016. Two associated sports halls known as ''Frederiksbjerghallerne''.\
+\}\}\
+* \{\{do\
+| name=Lyseng Sv\'f8mmebad | alt= | url=http://www.vigirbyenpuls.dk/da/Svoemmehaller/Lyseng-Svoemmebad.aspx | email=info@vigirbyenpuls.dk\
+| address=Lysengvej 4, H\'f8jbjerg | lat= | long= | directions=\
+| phone=+45 87 13 33 85 | tollfree= | fax=\
+| hours=Closed Wednesday and Friday | price=DKK 45 (special prizes for children and groups)\
+| lastedit=2016-03-16\
+| content=Located in the outer district of H\'f8jbjerg to the south of the city centre, this is a swimming hall complex for everybody. Three basins. Toys for play in the water, deep pool with diving boards and swimming lanes for exercise and competitions.\
+\}\}\
+* \{\{do\
+| name=Gellerupbadet | alt= | url=http://www.vigirbyenpuls.dk/da/Svoemmehaller/Gellerupbadet.aspx | email=\
+| address=Dortesvej 43, Brabrand | lat= | long= | directions=Go to Gellerup Park. Several bus lines connects.\
+| phone=+45 86 25 69 01 | tollfree= | fax=\
+| hours=Closed Tuesdays (Saturday is women only) | price=DKK 45 (special prizes for children and groups)\
+| lastedit=2016-03-16\
+| content=This place also offer opportunities for families and children, as well as dedicated swimmers. Special shallow warmed pools and sauna. There is also a large climbing wall in the hall. Gellerupbadet is located in the middle of Gellerup Park in the western city district of Brabrand. While here, you could also pay a visit to the [http://www.globus1.dk/ Globus1] sports and culture centre near the swimming hall. Here you can find playgrounds and sports facilities. Bazar Vest is also close by.\
+\}\}\
+\
+In the summer from June to September you can rent canoes at the central community centre of [http://denblaarambla.dk/kanoudlejning/ Folkestedet] and paddle along the Aarhus River for short or extended journeys.\
+\
+=== Sports ===\
+Aarhus is a centre for sports in general, not just watersports. Throughout the city there are a number of sports complexes, small and large stadiums, [http://www.vigirbyenpuls.dk/da/Idraetshaller.aspx indoor sports halls] and several facilities for street sports. Apart from the free street-level activities, most places works through membership teams, but sometimes with an option for hourly rental or trial lessons. From a tourists perspective there are a number of interesting activities that you can engage in:\
+\
+[[File:Aarhus stadion.jpg|thumb|Full stadium for a football match at Ceres Park & Arena.]]\
+* \{\{do\
+| name=DGI-huset | alt= | url=http://www.dgi-huset.dk/ | email=info@dgi-huset.dk\
+| address=V\'e6rkmestergade 17 | lat= | long= | directions=Behind the Bruun's Galleri shopping centre\
+| phone=+45 86 18 00 88 | tollfree= | fax=\
+| hours= | price=Free entry (Courts DKK 100 for an hour)\
+| content=is a sports centre of about 5,000 m2 right in the city centre and here you can engage in many kinds of indoor sports activities. Most of the activity is through membership teams, but you can play badminton, football or try the large climbing walls by an hourly rent. There is also a todlers area and it is possible to exercise for all ages.The single-event rent uses a voucher system and there are regular half-price discounts in weekends and holidays. There is a caf\'e9 at the center, so you can have a cup of tea and see if this is a place for you.\
+\}\}\
+\
+* \{\{do\
+| name=Jysk V\'e6ddel\'f8bsbane | alt= | url=http://www.jvb-aarhus.dk | email=\
+| address=Observatorievejen 2 | lat= | long= | directions=Behind the Ceres Park & Arena\
+| phone=+45 86 14 25 11 | tollfree= | fax=\
+| hours= | price=DKK40\
+| content=Go watch a horse race\
+\}\}\
+\
+* \{\{do\
+| name=Aarhus Sk\'f8jtehal | alt= | url=http://www.skojtehallen.dk | email=\
+| address=G\'f8teborg Alle 9 | lat= | long= | directions=Behind the green roofed watertower at the junction of Randersvej and Ring 2\
+| phone=+45 86 10 42 19 | tollfree= | fax=\
+| hours= | price=DKK 45\
+| content=Ice skating is possible during the winter in Aarhus Sk\'f8jtehal. Sometimes ice-disco events, sometimes ice hockey matches. An outdoor ice skating venue is also erected in the winter in the park outside the Concert Hall.\
+\}\}\
+\
+* \{\{do\
+| name=Ceres Park & Arena | alt=Stadion | url=http://www.parkarena.dk/ | email=\
+| address= | lat= | long= | directions=Next to Tivoli Friheden\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2016-03-17\
+| content=Located in the outskirts of the Marselisborg Forests near the Tivoli, this is where the local soccer team of AGF, plays their home games. The stadium can hold around 21,000 spectators. If you're a soccer fan, don't miss a home game (played on Saturdays or Sundays) as the atmosphere is amazing during game night!\
+\}\}\
+\
+Aarhus are hosting many [http://www.sportaarhusevents.dk/ large sports events], both on a national and international level and you could arrange your visit in order to attend one of these events.\
+\
+=== Golf ===\
+The [[East Jutland]] region has many options for [http://www.golfdk.dk/klubber/greenfee.php/midt_jylland_oest/6 golfers]. The courses are of a high quality and often situated in beautiful nature. As part of this region, Aarhus has several options for playing golf:\
+[[File:Mollerup Golfklub 2.jpg|thumb|View across the golf courses at Mollerup Golf Club.]]\
+* \{\{do\
+| name=Mollerup Golf Club | alt= | url=http://www.mollerupgolfclub.dk/ | email=info@mollerupgolfclub.dk\
+| address=Mollerupvej 7, Risskov | lat= | long= | directions=\
+| phone=+45 86 78 55 56 | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2015-09-12\
+| content=Mollerup Golf Club is situated in the northern outskirts of Aarhus, on the southern slopes of the broad and flat Eg\'e5 Valley, officially in the district of Risskov, but close to Skejby. Apart from the golf facilities, there is a great scenic view across the valley here and it is close to the forest of Mollerup Skov and the lake area of Eg\'e5 Engs\'f8. 18 holes. The club is from 1993, but golf has been played here since 1968. Caf\'e9 and restaurant. 9 km from the city centre.\
+\}\}\
+\
+* \{\{do\
+| name=Lyngbygaard Golf | alt= | url=http://www.lyg.dk/ | email=\
+| address=Lyngbyg\'e5rdsvej 29, Brabrand | lat= | long= | directions=\
+| phone=+45 87 44 10 70 | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2015-09-12\
+| content=Located west of Aarhus in the district of Brabrand. 18 holes and 9 holes with five tees on every hole. Challenges for all levels. Designed by the American architecture firm von Hagge, Smelek og Baril. Golf academy and restaurant.\
+\}\}\
+\
+* \{\{do\
+| name=Aarhus Aadal Golf Club | alt= | url=http://www.aadalgolf.dk/ | email=aagc@aadalgolf.dk\
+| address=Brydeh\'f8jvej 35, Harlev | lat= | long= | directions=\
+| phone=+45 86 94 26 77 | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2015-09-12\
+| content=This golf club is located west of Aarhus near the town of Harlev. Beautiful countryside. 18 holes. Restaurant.\
+\}\}\
+\
+* \{\{do\
+| name=Aarhus Golf Club | alt= | url=http://www.aarhusgolf.dk/ | email=info@aarhusgolf.dk\
+| address=Ny Moesg\'e5rdvej 50, H\'f8jbjerg | lat= | long= | directions=Go to Moeasg\'e5rd Museum\
+| phone=+45 86 27 63 22 | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2015-09-12\
+| content=Aarhus Golf Club in the district of H\'f8jbjerg is located close to the Moesg\'e5rd Museum and the Marselisborg Forests. There is a great view of the Bay of Aarhus from here and the excellent bistro and restaurant UNICO, also serves for non-golfing guests, both lunch and evening meals. The golf club has 35 years of experience and more than 1,000 members. 18 holes.\
+\}\}\
+\
+* \{\{do\
+| name=Aarhus Minigolf | alt= | url=http://www.aarhusminigolf.dk/ | email=kontakt@aarhusminigolf.dk\
+| address=\'c5boulevarden 52 | lat= | long= | directions=\
+| phone=+45 21 85 05 18 | tollfree= | fax=\
+| hours= | price=60 DK\
+| lastedit=2015-09-12\
+| content=If you dont like to leave the city, or are looking for some alternative fun, Aarhus has a minigolf club! Play in the city centre on the rooftop of Bruuns Galleri or at the three story minigolf centre at the riverside at \'c5boulevarden. The mingolf centre is located on top of Caf\'e9 Viggo and there are two bars here and room for up to 150 players. If you are a party, there are rooms for celebrating and you can order dinners.\
+\}\}\
+\
+=== Miscellaneous ===\
+[[File:Tivoli Friheden.jpg|thumb|Tivoli Friheden amusement park.]]\
+* \{\{do\
+| name=Tivoli Friheden | alt= | url=http://en.friheden.dk | email=\
+| address=Skovbrynet 5 | lat= | long= | directions=\
+| phone=+45 86 14 73 00 | tollfree= | fax=\
+| hours=11-23 (varies greatly) | price=DKK65 / All-ride ticket DKK130\
+| content=Amusement park situated in the outskirts of the Marselisborg Forests south of the city centre. There is also a dance floor and a large scene with occasional concerts and large events. A number of restaurants serves in the park as well. Check opening days on the webpage.\
+\}\}\
+\
+* \{\{do\
+| name=Royal Scandinavian Casino | alt= | url=http://royalcasino.dk/da-dk/forside/ | email=kontakt@royal-casino.dk\
+| address=Store Torv 4 | lat= | long= | directions=Go to the Royal Hotel at the Aarhus Cathedral\
+| phone=+45 86 19 21 22 | tollfree= | fax=\
+| hours=All week | price=Entry DKK 70 after 19 (DKK 20 before 19)\
+| lastedit=2016-01-26\
+| content=Play the roulette or a game of cards and hope for the big prize. The gaming tables opens at 19 in the evening. You can also enjoy a cup of coffee in the Royal Caf\'e9, dine in the hotel restaurant of Queens Garden or join the party at the Royal Casino Bar. Mid-range prices. Casino Nights with included dinners are regularly arranged. The casino can also arrange and host your birthday or a special celebration if you have the money. Enjoy the bronze sculptures at the main entrance, designed by local artist Hans Krull. Several of the histroric halls in the hotel and casino also has an interesting design. \
+\}\}\
+\
+* \{\{do\
+| name=RaceHall | url=http://www.racehall.com | email=\
+| address=Hasselager Centervej 30 | lat= | long= | directions=\
+| phone=+45 86 28 01 70 | tollfree= | fax=\
+| hours= | price=DKK310-580 \
+| lastedit=\
+| content=Go for a go-kart race in what they claim is the largest indoor Race track in Europe.\}\}\
+\
+* \{\{do\
+| name=Godsbanen | alt= | url=http://godsbanen.dk/ | email=\
+| address=Skovgaardsgade 3 | lat= | long= | directions=\
+| phone=+45 8940 9948 or +45 2920 9043 | tollfree= | fax=\
+| hours= | price=Free\
+| lastedit=2016-02-01\
+| content=A new centre for cultural productions of all kinds. Open workshops, events (theatre, concerts, performance, film, etc.). There is a restaurant and caf\'e9 here too. Even if you are not interested in participating in anything in particular, Godsbanen is worth a visit for its strange and unique architecture. There is also a very interesting DIY built "city" known as '''[http://www.institutforx.dk/ Institut for (X)]''' behind the buildings. It is full of strange constructions, primarily in wood, where people tend gardens, play football, are busy at workshops, skate at the skate-bowl, play street sports and throws parties in the night. Some people lives here. The purpose of Institut for (X) is to have a free zone of unregulated creativity, and the area has a rather anarchistic free-town vibe to it, but in a friendly, inviting way. Be sure to visit this place because it might well disappear in a few years to make way for new construction projects. Located behind ARoS and the Concert Halls.\
+\}\}\
+\
+* \{\{do\
+| name=Food Markets | alt= | url=http://ingerslevtorv.dk/ | email=\
+| address=Ingerslevs Boulevard | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours=8-14 (Wed and Sat) | price=Free\
+| lastedit=2016-03-15\
+| content=Every Wednesday and Saturday from 8-14 a food market springs up on the broad boulevard and park of Ingerslevs Boulevard in the district of Frederiksbjerg in the inner city. Here producers from the countryside open individual stands and offers fresh produce for sale. Vegetables, fruit, bread, fish, meat and cheese. There is a small permanent caf\'e9 here with good coffee, but stands at the market also offers coffee, smoothies, ice cream and the like.\
+\}\}\
+* \{\{do\
+| name=Playgrounds | alt= | url=https://www.aarhus.dk/da/borger/natur-og-miljoe/Park-og-skov/Legepladser/Find-en-legeplads.aspx | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2016-03-17\
+| content=Denmark has a high concentration of free playgrounds and Aarhus is not an exception. There are small playgrounds in and around the city and a few larger ones as well. If you are travelling with kids be sure to visit '''[http://www.storcenternord.dk/legeland/ Legeland]''' in the mall of Storcenter Nord with up to 150 kids or the outdoor playground at '''[https://www.aarhus.dk/da/borger/natur-og-miljoe/Park-og-skov/Legepladser/Find-en-legeplads/~/media/082BE41358464872B36700AAB6437C0C.ashx Mindeparken]'''. The play centre of '''[https://www.facebook.com/BornenesJord B\'f8rnenes Jord]''' (The Childrens Earth) in the city centre has both indoor and outdoor playgrounds and is perhaps the most engaging, with professionals to supervise and arrange events. All sites are free to attend. The website for this entry only shows some of the outdoor sites and is not completely up-to-date. There is also a large 5,000 m2 commercial indoor play centre in the western district of Brabrand known as '''[http://www.legelandet.dk/ Legelandet]''' with facilities for kids of all ages up to 17 years. It has an entry fee of about DKK 100.\
+\}\}\
+\
+==Learn==\
+There are many opportunities to get a formal education in Aarhus, also for non-Danish speakers, but the city also offers a lot of informal learning activities and courses on all kinds of subjects. If you have a day time job you can usually join in on the evenings.\
+\
+* '''[http://www.au.dk/en Aarhus University]''' (AU) is the largest university in Scandinavia in terms of students (around 35,000) and employees. Apart from the formal lenghty academic educations, the university offers a number of independent academic courses in English and also runs a separate Folkeuniversitet in line with other universities in Denmark. \
+\
+* '''[http://fuau.dk/default.aspx# Folkeuniversitetet]''' (Folk University) does not offer formal educations, but hosts lectures and small courses of many popular academic subjects with a mission to mediate the academic subjects and scientific methods to the general public. The style and content is more relaxed, with a broader appeal and less technical in its content. All teachers are academics though and delivers up to date knowledge from the forefront of the academic research. Many professors from the university give frequent lectures at Folkeuniversitetet. Folkeuniversitetet lectures in Danish. It can be a good opportunity for you to socialize and exercise your Danish language skills in a realistic environment, while getting intellectually stimulated in the process.\
+\
+* Learn Danish in the [http://www.au.dk/en/is/learndanish University's Danish Courses] or in the '''[http://www.laerdansk.dk/en/ L\'e6rDansk]'''.\
+\
+* The new central library and culture center of '''[https://dokk1.dk/english DOKK1]''' (Danish: ''Dokken'' meaning "the dock") offers a plethora of cultural events, gatherings and talks with various cultural notables. Here you can host or should be able to join a discussion group with the same interests as you.\
+\
+* '''[http://www.fof.dk/aarhus FOF (Aarhus)]''' is an old independent educational organisation in Denmark and offers all sorts of courses with qualified teachers, usually in the evening. Here you can learn to play guitar, cook for your baby or acquire a sailing certificate.  \
+\
+* The '''[http://www.fo-byen.dk/in-english/ FO-city]''' in the city centre right across the City Hall Square, is a centre for general education, meetings and conferences. It is a cluster of various buildings, both old and new, with headquarters in a former school building from 1900. There are a great variety of operators here, offering all sorts of general training. There is a caf\'e9 (caf\'e9 Nicolai) and sometimes markets where the students sell their own crafts and artworks.\
+\
+==Buy==\
+\
+[[File:AArhusStroget.jpg|thumb|Str\'f8get]]\
+The '''pedestrian zone''' in the city centre is the best place for shopping. You cannot miss it, as you will step right into it, when leaving the Aarhus central station or arriving at the central bus terminal. It is packed with small speciality boutiques and caf\'e9s, but also larger stores like the three '''H&M''' apparel stores and the department stores of '''Salling''' and '''Magasin du Nord''' and several supermarkets. Especially the main street known as '''Str\'f8get''', highlights upscale Scandinavian clothing, design and jewellery shops. There are a number of larger bookstores here where you can buy books in English too, including guides and maps.\
+\
+* \{\{buy\
+| name=Museums Kopi Smykker | alt= | url=http://www.museum-jewelry.dk/shop/frontpage.html | email=\
+| address=Kannikegade 12 | lat= | long= | directions=At the Aarhus theatre. Close to the small Viking Museum\
+| phone= | tollfree= | fax=\
+| hours=Closed Sundays | price=\
+| content=This is one of four shops in Denmark where you can buy or take a look at high quality Viking jewellery copied from originals. There are many different kinds. \
+\}\}\
+\
+* \{\{buy\
+| name=The Latin Quarter | alt= | url= | email=\
+| address= | lat= | long= | directions=Go to the Aarhus Cathedral at the end of "Str\'f8get"\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2016-01-26\
+| content=The Latin Quater (so called by the locals) is a central shopping district in the old city centre. The quarter is situated next to the Cathedral, confined by ''Mejlgade'', ''N\'f8rregade'' and the church of ''Vor Frue Kirke'' to be precise. Here you will find small 'independent' shops and some of the city's oldest caf\'e9s. Several unique fashion boutiques with design, clothes and furniture, some with exclusive Danish design such as the '''[http://beoaarhus.dk/ Bang & Olufsen]''' Hi-Fi store. Small art galleries, vinyl record stores, tatoo and haircut saloons, all in a diverse mix. Try a piece of luxurious chocolate or outstanding marzipan at the small '''[https://summerbird.dk/736/sb--%C3%85rhus--volden Summerbird]''' store, grab a coffee or a bite to eat at one of the caf\'e9s or restaurants, go to a small initimate concert at Gyngen or just wander about soaking up the atmosphere and street life. If you're in the city in mid-September, your trip may coincide with ''Mejlgade for Mangfoldighed'', a 1-day street party in Mejlgade. Every year in May or September, the shops and businesses of the whole neighbourhood also celebrate ''Latinerfestival'' for a couple of days, with engaging street events and small concerts.\
+\}\}\
+\
+* \{\{buy\
+| name=Bruun's Galleri | alt= | url=http://www.bruunsgalleri.dk/ | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| content=Fused with the older railway station. You can enter the mall by car, or one of five street level entrances, including the main one through the railway station itself. Bruun's Galleri is the biggest city mall in Denmark with 95 shops and the largest and most advanced cinema in Jutland.\
+\}\}\
+\
+* \{\{buy\
+| name=Storcenter Nord | alt= | url=http://www.storcenternord.dk/ | email=\
+| address= | lat= | long= | directions=Drive along Paludan M\'fcllersvej from the city center. It is just beyond Ring 1\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| content=Located in the northern part of the central city. Another mall with around 50 shops.\
+\}\}\
+\
+* \{\{buy\
+| name=City Vest | alt= | url=http://www.cityvest.dk/ | email=\
+| address= | lat= | long= | directions=Drive along Silkeborgvej from the city center and beyond Ring 2\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| content=Located in the western part of the city. A mall with around 30 shops.\
+\}\}\
+\
+* \{\{buy\
+| name=Bazar Vest | alt= | url=http://www.bazarvest.dk/ | email=\
+| address=Edwin Rahrs Vej 3 | lat= | long= | directions=10 minutes walk from City Vest\
+| phone= | tollfree= | fax=\
+| hours=10-18 (closed Mondays) | price=Free\
+| content=Located in Brabrand in the western part of the city. 110 small shops with mostly foreign nationalities where you can buy all kinds of exotic items and food.\
+\}\}\
+\
+If you are living on a budget and needs to buy your own everyday grocery, look for a red '''Fakta''' or yellow '''Netto''' as these are the most abundant discount stores in the city. Other discount options are '''Aldi''', '''Rema''' and '''Kiwi'''.\
+\
+==Eat==\
+There are hundreds of restaurants in Aarhus, reaching from cheap kebab joints, to high-class dining. Aarhus is generally known as one of the best places to eat in Denmark, probably due to the large amount of conferences, good quality food products from local producers, major educational institutions for cooking and food production, and strong competition. However, the best places are not necessarily located on the most prominent addresses, so a bit of browsing is recommended if you have a particular interest in fine dining. Also, be aware that many restaurants are closed for extensive periods throughout the year. Usually in the summer months or January-February, so be sure to check up, if you plan to visit a specific place.\
+\
+The main shopping streets of J\'e6gerg\'e5rdsgade, Str\'f8get, \'c5boulevarden (aka '''\'c5en''', along the Aarhus River), Vestergade and Tordenskjoldsgade has many options for a meal of all kinds. The Latin Quarter is also packed with restaurants and caf\'e9s serving food. \
+\
+With an immigrant population of around 15%, Aarhus has many opportunities for ethnic food. This includes Italian, Greek, Middle Eastern, Chinese, Vietnamese, Thai and Japanese food as the most common options. The price range are from Budget to Mid-range and you can find good ethnic food at street vendors to fine restaurants.\
+\
+The locals regularly frequent the many caf\'e9s of the city while out and about. Besides being the best option for breakfast (around DKK 45), brunch and lunch, many larger caf\'e9s serve excellent home made burgers, salads, sandwiches, soups and snacks at reasonable prices (DKK 80-150 for a meal).\
+\
+===Budget===\
+As Aarhus is a city full of students, there are many budget priced places, but they can be hard to spot for the hurried tourist and a little research (or asking) is a a good idea. You do not have to compromise on quality in Aarhus, even when eating on a budget. Many mid-ranged places usually have a few budget options: it can be a cheap good quality lunch, student discounts or special discount nights.\
+\
+[[File:Lille Torv.jpg|thumb|A ''P\'f8lsevogn'' at the square of Lille Torv.]]\
+* \{\{eat\
+| name=P\'f8lsevogn | alt= | url= | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours= | price=Hot dogs c. DKK 25\
+| lastedit=2016-01-20\
+| content=No visit to Denmark would be complete without trying a ''P\'f8lsevogn'' (lit.: Sausage-wagon). These are street vendors selling a variety of sausages (pork) and hotdogs. Some larger places also has burgers and other fast food items for sale. Try a ''"ristet hotdog med det hele"''; a hot dog with a grilled sausage and the works, comprising ketchup, strong mustard, Danish remoulade, fried and raw onions, finished off with pickled cucumbers on top. Its messy, its unhealthy and its really good! If you are into it, you should buy a warmed Cocio chocolate milk on the side, the traditional accompanying beverage. Most places also sell red coloured boiled sausages, a Danish specialty. They are funny to look at, but some of the other sausages for sale are more flavourful. The inner city has several ''P\'f8lsevogn'', there is one in front of the central station and another at the City Hall Square. Most stands are owned by a Danish [http://www.bornenes-kontor.dk/ charity organization], donating the surplus to needy children in both Denmark and abroad.\
+\}\}\
+\
+* \{\{eat\
+| name=Havnens Perle | alt= | url=http://www.havnensperle.dk | email=\
+| address=Sverigesgade 1A | lat= | long= | directions=\
+| phone=+45 86 13 22 56 | tollfree= | fax=\
+| hours=All week (8-22 most days) | price=Burger menus DKK 89 and up. Hot dogs DKK 28. Hot meals from DKK 49.\
+| lastedit=2016-01-01\
+| content=Located at the harbour. This place has been awarded the best Danish barbecue restaurant in Aarhus. Enjoy a fresh made burger, hotdogs, fried chickens, a slice or two of roast pork, fish and chips or various hot meals. No gourmet food! This place serve more roadhouse-style food than restaurant - ensure you check out the website before making the trip out there. Try traditional Danish fried pork with white parsley sauce and potatoes (ad libitum for DKK 125), a hearty dish that calls for a big draft beer. You can also have your breakfast here and around noon you can buy good ''sm\'f8rrebr\'f8d'' (Danish style open faced sandwiches on rye bread) for lunch. Many locals and dockworkers. Plenty of room to sit outside when the weather permits. There are a few other options for budget priced grill and barbecue food in Aarhus, besides the usual international fast food chains.\
+\}\}\
+\
+* \{\{eat\
+| name=Delizioso | alt= | url=http://www.casamia.dkhttp://www.delizioso.dk/ | email=\
+| address=Tr\'f8jborgvej 8F (Tr\'f8jborg) and Sikeborgvej 257 (\'c5byh\'f8j) | lat= | long= | directions=At the southern end of Tordenskjoldgade you take a 1-minute walk downhill toward the forest of Riis Skov. Delizioso at Silkeborgvej is at the \'c5byh\'f8j Square. Good opportunities for parking at both spots.\
+| phone= | tollfree= | fax=\
+| hours=All week (16-21) | price=Pizzas DKK 70-85\
+| lastedit=2016-01-20\
+| content=Delizioso started out some years ago in \'c5byh\'f8j out of the central city, but now also has a pizzaria-restaurant at Tr\'f8jborg. Both the restaurants are very small and placed on less prominent adresses. The Italian food at Delizioso is both budget priced and of a good quality at the same time. The menu is mostly pizzas and pastas, but also risotto and some authentic Italian veal dishes available, all of good quality. Special option and price for children. Enjoy the food at one of the small restaurants, or have it as take away. Aarhus has a huge number of pizzarias, from budget to mid-range priced and of a varying quality. Most pizzarias are cheap fast food joints that can fill your stomach, but not to remember.\
+\}\}\
+\
+* \{\{eat\
+| name=Restaurant Mekong | url=http://www.restaurant-mekong.dk/index.html | email=kontakt@restaurant-mekong.dk\
+| address=N\'f8rregade 10 | lat= | long= | directions=\
+| phone=+45 86 18 49 55 | tollfree= | fax=\
+| hours=Tu-Su 17-22 | price=Main course 75 DKK\
+| lastedit=2016-01-01\
+| content=Asian restaurant with excellent quality. Good variety, special offers (2 course dinner 119 DKK) and take-away. There is also a Mekong restaurant at the other end of N\'f8rregade, by the name of [http://www.thaimekong.dk/ Thai Mekong]. Equally good quality, price range and take-away options. N\'f8rregade has many other restaurants, both budget and mid-range.\
+\}\}\
+\
+===Mid-range===\
+The following options have been chosen to show the diversity within the price range and only well-settled places that have proven themselves are mentioned. There are many good places that are not in the list, as there are really too many worthy spots to include. Also, quite a few splurge-level restaurants have occasional mid-range discounts. \
+\
+Several larger hotels have their own restaurant and you can choose to dine there, you do not have to reside in the hotel. Most are mid-range priced and of a great quality. See the hotel section or the individual hotel websites for details.\
+\
+[[File:Restaurant Johan r.JPG|thumb|Restaurant Johan R at the Concert Halls in Danish design]]\
+* \{\{eat\
+| name=Latin Brasserie and Creperie | url=http://www.latin-restaurant.dk/| email=\
+| address=Klostergade 2 | lat= | long= | directions=\
+| phone=+45 86 13 78 12 | tollfree= | fax=\
+| hours= | price=\
+| content=located on a corner in the Latin Quarter. They serve good mussels with handcut chips. There is a very active nightlife in the area.\
+\}\}\
+\
+* \{\{eat\
+| name=Mefisto | url=http://www.mefisto.dk | email=\
+| address=Volden 28 | lat= | long= | directions=In the Latin Quarter\
+| phone=+45 86 13 18 13 | tollfree= | fax=\
+| hours= | price=Mains from DKK 170\
+| lastedit=2016-01-01\
+| content=A simple restaurant with great food. The menu includes seafood, tapas, meat. Known for their lobster menus and brunch. Nice patio.\
+\}\}\
+\
+* \{\{eat\
+| name=Mackies's Cantina | alt=Mackie's Pizza | url=http://www.mackiespizza.dk | email=\
+| address=Sct. Clemens Torv 9 | lat= | long= | directions=At the Aarhus Cathedral\
+| phone=+45 86 12 36 61 | tollfree= | fax=\
+| hours=All week (11:30-22) | price=DKK 129 for burgers. DKK 85 and up for pizzas\
+| content=Restaurant and caf\'e9, known for introducing pizza eating without knife and fork, into Aarhus in the 70's. Pizzas can be made family-sized. Also clubsandwich, burgers, salads, wraps, steaks and fries. Usually discount deals on steaks and wine for two or more. Good food in a lively unique decor and atmosphere.\
+\}\}\
+\
+* \{\{eat\
+| name=Restaurant Lotus | url=http://www.restaurantlotus.dk/ | email=\
+| address=Frue Kirkeplads 1 | lat= | long= | directions=Go to Vor Frue Kirke church in the city centre\
+| phone=+45 86 12 65 33 | tollfree= | fax=\
+| hours=17-23 | price=Buffet 179 DKK\
+| lastedit=2016-01-01\
+| content=A family friendly Chinese restaurant with decent a-la-carte selection of some authentic dishes and a fine tea selection. Nice decor, not too kitschy. Good all-you-can-eat buffet and special meals and prices for children. Budget- to mid-range priced. Take-away boxes from 40 DKK only. Located at the "Vor Frue Kirke" Church in a small side street to Vestergade. Vestergade has several mid-range restaurants.\
+\}\}\
+\
+* \{\{eat\
+| name=Oishii Sushi | alt= | url=http://www.restaurantoishii.dk/index.php | email=\
+| address=N\'f8rregade 42 | lat= | long= | directions=At the outskirts of the Latin Quarter\
+| phone=+45 23 26 66 | tollfree= | fax=\
+| hours=All week (kitchen close at 21) | price=Cheapest menu is DKK 69\
+| lastedit=2016-01-17\
+| content=There are many sushi restaurants in Aarhus and at Oishii Sushi they have a "running sushi" arrangement, where you choose and pick from a rolling transport belt, just like the Japanese like it. Good variety and good quality. Also opportunity for take away with on-line ordering. When you eat sushi (or anything) in Denmark you can be sure your food has been handled by trained professionals with high hygiene standards. Next door you can try '''[http://www.oishiiwok.dk/ Oishii Wok]''', focusing on Chinese wok-style food. Both restaurants are operated by the same owner, and he also has two other oriental restaurants in Aarhus: '''Saichi''' (original Japanese restaurant in J\'e6gerg\'e5rdsgade) and '''Kung Fu Express''' (a sushi and Chinese wok take-away in H\'f8jbjerg).\
+\}\}\
+\
+* \{\{eat\
+| name=CANblau | alt= | url=http://www.canblau.dk/canblau-arhus | email=info@CANblau.dk\
+| address=Frue Kirkeplads 4 | lat= | long= | directions=At the central square of Klostertorv\
+| phone=+45 86 88 88 19 | tollfree= | fax=\
+| hours=All week (lunch and evening) | price=Tapas menu DKK 328. Pairing wines for DKK 248.\
+| lastedit=2016-01-20\
+| content=CANblau is a celebrated Spanish-style gourmet tapas restaurant. The restaurant is the biggest tapas restaurant in Denmark, in two floors and with furnishings that says quality. With a flagship tapas menu at DKK 328 and matching wines for DKK 248, CANblau walks the line between mid-range priced and a splurge. It is possible to buy individual a-la-carte tapas at a lower price and still feel satisfied. A very large Spanish winecard, with several gems and special imports. There is also a CANblau in [[Aalborg]].\
+\}\}\
+\
+[[File:Restaurant Komfur.JPG|thumb|The Latin Quarter has many restaurants (Restaurant Komfur)]]\
+* \{\{eat\
+| name=K\'e4hler Spisesalon | alt= | url=http://www.spisesalon.dk/ | email=info@spisesalon.dk\
+| address=M.P. Bruuns Gade 33 | lat= | long= | directions=Near Bruun's Galleri and J\'e6gerg\'e5rdsgade\
+| phone=+45 86 12 20 53 | tollfree= | fax=\
+| hours=All week (kitchen close at 21:30) | price=\
+| lastedit=2016-01-01\
+| content=At this place you can choose to eat your breakfast, brunch, lunch or evening dinner or just sit for a cup of tea or coffee and enjoy the athmosphere and fashionable [http://www.kahlerdesign.com/ K\'e4hler] ceramics. The menu is very diverse and of very good quality. Part of the menu is inspired by traditional Danish dishes, like the decorated open sandwhiches, but often with a twist. Also Nordic inspired gourmet cuisine. Quality breakfast at 80 DKK. Three course dinner for 298 DKK. K\'e4hler also operates a luxurious high-end gourmet restaurant in a mansion in Risskov by the name of '''[http://www.villadining.dk/kahler-villa-dining/?gclid=CNfX4pnhicoCFasBwwodO5oO6g K\'e4hler villa dining]'''. Here you can experience excellent New Nordic Cuisine for mid-ranged prices.\
+\}\} \
+\
+* \{\{eat\
+| name=Klassisk 65 | alt=Klassisk Bistro & Vinbar | url=http://www.klassiskbistro.dk/ | email=\
+| address=J\'e6gerg\'e5rdsgade 65 | lat= | long= | directions=About midway down J\'e6gerg\'e5rdsgade\
+| phone= | tollfree= | fax=\
+| hours=All week (closed for a few hours in late afternoon) | price=Lunch DKK 110-150. Three course menus DKK 295 (also a-la-carte)\
+| lastedit=2016-01-20\
+| content=At this bistro and winebar you can get very good French-style food, both bistro and dinners. Casual and cheerful atmosphere, awarded for its "feel-good experience". If you like to have a peek before you decide, go have a coffee or perhaps a full brunch at the caf\'e9 next door by the name '''Kaffe 67'''. It would probably be a good idea to book ahead at the restaurant, as it is rather small and often full of people having a good time. Good opportunities for vegetarians. There is also an excellent seafood restaurant known as '''[http://www.klassiskfisk.dk Klassisk Fisk]''' run by the same group of people in N\'f8rregade near the Latin Quarter. It is also French style and in the same price range. A la carte is more expensive at the seafood restaurant though and there are some splurge options too. Be aware that Klassisk Fisk does not take any cash.\
+\}\}\
+\
+* \{\{eat\
+| name=H\'e6rv\'e6rk | alt= | url=http://restaurant-haervaerk.dk/ | email=info@restaurant-haervaerk.dk\
+| address=Frederiks All\'e9 105 | lat= | long= | directions=Go to the western end of J\'e6gerg\'e5rdsgade and turn left\
+| phone=+45 50 51 26 51 | tollfree= | fax=\
+| hours=Wed-Sat | price=Five-course menu at DKK 350 and winemenu also for DKK 350\
+| lastedit=2016-01-20\
+| content=This a good opportunity, if you are interested in trying out some local experimental gourmet cooking, without entering the splurge-level and busting the bank. With a focus on organic food and a firm anchor in local ingredients, the chefs at this place cooks up ever changing dishes at a fixed price. You will never know what dishes they have in mind for you, as they will make the best of what is in season, available and of a good quality, but you can be sure it will be prepared well and done creatively. This is part of the charm and deconstructed concept of H\'e6rv\'e6rk. The wines are organic or biodynamic and you can also try [http://www.morethanorganic.com/ natural wines] here, the new hip thing in the world of wines and environmental awareness. H\'e6rv\'e6rk is a new place, run by four friends, three of which are chefs. Do not be fooled by the anonymous facade and ordinary adress.\
+\}\}\
+\
+* \{\{eat\
+| name=Skovm\'f8llen | url=http://www.skovmollen.dk | email=\
+| address=Skovm\'f8llevej 51 | lat= | long= | directions=\
+| phone=+45 86 27 12 14 | tollfree= | fax=\
+| hours=Wed-Sun | price=Large lunch 225 DKK\
+| lastedit=2016-01-01\
+| content=Enjoy some soothing hot chocolate, tea or coffee at the restored timber-framed medieval watermill in the midst of the forest, then stroll along the stream, winding through the forest down to the beach. Also classical Danish lunch with a twist, large brunch on weekends and gourmet 3-5 course dinners on Friday nights. Excellent quality. On-line booking option.\
+\}\}\
+\
+===Splurge===\
+There are many options for a dinner splurge in Aarhus and the variety is good. When visiting Denmark, it could be a good idea to study The White Guide a bit, if you are looking for gastronomic experiences. There are both an [http://whiteguide-nordic.com/ international version] in English and a [http://www.whiteguide.dk/ Danish version]. The Danish version has the most detailed information. The White Guide claims to be the only authoritative restaurant guide for the Nordic region and started out in Sweden. The following list contains just a few selections from the Aarhus splurge scene, to cover the diversity of the city and inspire most tourists: \
+[[File:Varnapal\'e6et.jpg|thumb|There are several interesting restaurants in the Marselisborg Forests (The Varna Palace)]]\
+* \{\{eat\
+| name=Restaurant Frederiksh\'f8j | alt= | url=http://www.frederikshoj.com | email=\
+| address=Oddervej 19-21 | lat= | long= | directions=Go to the seaside entrance of Mindeparken in the south of the city.\
+| phone=+45 86 14 22 80 | tollfree= | fax=\
+| hours=Wed-Sat | price=700 DKK and up\
+| lastedit=2016-01-01\
+| content=One of Aarhus' most exquisite gourmet restaurants, led by renowned chef Wassim Hallal and located in the Marselisborg Forest across Mindeparken. Awarded one star in the Michelin guide in 2015, in part because of its originality. Stylish modern decor.\
+\}\}\
+\
+* \{\{eat\
+| name=Restaurant Koch | alt= | url=http://www.kocherier.dk | email=\
+| address=Pakkerivej 2 | lat= | long= | directions=At the yacht and wooden ships harbour basin\
+| phone=+45 86 18 64 00 | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2016-01-01\
+| content=Excellent gourmet restaurant with fashinonable decor. Only three options: A large flagship gourmet menu at DKK 1000 (Thu-Sat), four-course dinner known as "The madness" (Wed-Sat) at 495 DKK (all included) and a notable Sunday brunch (Sun 11-13) at 345 DKK. The three Koch brothers also run the mid-range priced lunch and dinner brasserie of '''[http://www.kocherier.dk/Fr%C3%B8ken-Koch.159.aspx Fr\'f8ken Koch]''' just across the yacht harbour (open Wed-Sat).\
+\}\}\
+\
+* \{\{eat\
+| name=Gastrom\'e9 | alt= | url=http://gastrome.dk/ | email=\
+| address=Rosensgade 28 | lat= | long= | directions=Near Casino Royal at the Latin Quarter\
+| phone=+45 28 78 16 17 | tollfree= | fax=\
+| hours=Closed Sundays and Mondays | price=DKK 898 for "Half-throttle". DKK 1,398 for "Full-throttle". Wine included.\
+| lastedit=2016-01-21\
+| content=At Gastrom\'e9 you can experience an inspired take on the New Nordic Cuisine at a very high level. Good local ingredients are used in abundance according to the seasons and many dishes have a strong reference to traditional classical Danish dishes, but they also serve caviar here and use ingredients like chocolate or rum and do not limit themselves by the strict dogmas of true New Nordic. The chefs calls it a "gourmet-inspired country kitchen". Gastrom\'e9 is one of the best restaurants in Aarhus, opened at the beginning of 2015 and awarded a Michelin-star right after. The two restaurateurs and chefs here are quite experienced though, as they have been operating a somewhat similar restaurant at the historic Vilhelmsborg manor just south of Aarhus for many years, by the name of '''[http://detgamlemejeri.dk/forside/ Det Gamle Mejeri]''' (the old dairy). Here you can also get an excellent Sunday brunch.\
+\}\}\
+\
+* \{\{eat\
+| name=MASH | alt= | url=http://mashsteak.dk | email=\
+| address=Baneg\'e5rdspladsen 12 | lat= | long= | directions=Across the central station and the city hall.\
+| phone=+45 33 13 93 00 | tollfree= | fax=\
+| hours=All week | price=Beaf 265 DKK and up. Vegetables, sauce and every sideorder are extra\
+| lastedit=2016-01-01\
+| content=Aarhus branch of the lauded Danish steak house, boasting some of the city's best steaks as well as a very impressive wine menu. Also fish and quality burgers. Lunch option Mon-Fri.\
+\}\}\
+\
+* \{\{eat\
+| name=Nordisk Spisehus | alt= | url=http://www.nordiskspisehus.dk/ | email=info@nordiskspisehus.dk\
+| address=M.P. Bruuns Gade 31 | lat= | long= | directions=Near Bruun's Galleri and J\'e6gerg\'e5rdsgade, right next to K\'e4hler\
+| phone=+45 86 17 70 99 | tollfree= | fax=\
+| hours=Closed Sunday | price=Three course dinner DKK 499, Gourmet lunch only DKK 79\
+| lastedit=2016-01-18\
+| content=Here you can enjoy both gourmet lunch and dinners. As a specially approved concept, Nordisk Spisehus serves tried menus from Michelin-star restaurants around the world. The menus are 3, 5 or 9 course and with a three course dinner at DKK 499, and pairing wines for DKK 349, this is not a mid-range place. Every second month, both the menus and the interior design are changed.\
+\}\}\
+\
+* \{\{eat\
+| name=L'estragon | alt= | url=http://lestragon.dk/ | email=\
+| address= | lat= | long= | directions=In the Latin Quarter next to Restaurant Latin\
+| phone=+45 86 12 40 66 | tollfree= | fax=\
+| hours= | price=Three course dinner DKK 395. Pairing wine menu DKK 315.\
+| lastedit=2016-01-20\
+| content=At L'estragon you can get superb French-style gourmet food. The restaurant is very small and can only seat 22 guests at a time, so reservations would be a good idea. As L'estragon is not the only exclusive gastronomic spot in Aarhus, it qualifies for special mention because it also holds a gold certificate in organic food and a large part of the excellent wine card is either organic or biodynamic wines.The food products are often choosen from local farmers. The main criteria for L'estragons selections are always taste and quality above all though. 3-4-5-6 course dinners.\
+\}\}\
+\
+* \{\{eat\
+| name=Restaurant Seafood | url=http://www.seafood-aarhus.dk | email=\
+| address=Marselisborg Havnevej 44 | lat= | long= | directions=Go to the marina in the southern parts of the harbour\
+| phone=+45 86 18 56 55 | tollfree= | fax=\
+| hours=All week 12-21 (22) | price=Three course dinner 395 DKK\
+| lastedit=2016-01-01\
+| content=Restaurant Seafood serve, as the name suggests, seafood. The food is photo-worthy when served and tastes equally as good. Menus, \'e1-la-carte and also lunch options.\
+\}\}\
+\
+=== Traditional Danish food ===\
+Traditional Danish food has seen a surge in the Danish restaurant business in recent decades. Unlike the experimental and often quite expensive dining of the New Nordic Cuisine, traditional Danish food is hearty, simple and of course sticks with tradition. Usually special dinner plans around the feasts such as ''Mortens Aften'' (St. Martin's Day 11 November), Christmas and Easter. Prices are mostly mid range.\
+[[File:Teater Bodega.jpg|thumb|Teater Bodega is one of several historic restaurants in Aarhus, serving traditional Danish food.]]\
+* \{\{eat\
+| name=Den Lille Kro | alt= | url=http://www.denlillekro.dk/ | email=\
+| address=N\'f8rre All\'e9 55 | lat= | long= | directions=\
+| phone=+45 86 86 44 41 | tollfree= | fax=\
+| hours= | price=mid range\
+| lastedit=2016-03-12\
+| content=Centrally located near the Latin quarter, but at a less busy corner of the inner city, this restaurant serves traditional Danish food of a great quality and variety for both lunch and evening dinners. Portions are large. ''Den Lille Kro'' (The Little Inn) is not too big, with a cosy atmosphere, and has been popular since its opening some years ago. It was closed for about a month in 2016 due to a change of director and owner.\
+\}\}\
+\
+* \{\{eat\
+| name=R\'e5dhus Kaf\'e9en | url=http://www.raadhuus-kafeen.dk/ | email=\
+| address=Guldsmedgade 32 | lat= | long= | directions=\
+| phone=+45 86 18 44 88 | tollfree= | fax=\
+| hours= | price=mid range\
+| lastedit=2016-01-01\
+| content=Established in 1924, and with a central location at the City Hall Square, this is a popular restaurant both for lunch dinners and evening meals. Portions are large and the quality is good. Authentic traditional Danish interior design. \
+\}\}\
+\
+* \{\{eat\
+| name=Teater Bodega | alt= | url=http://teaterbodega.dk/ | email=info@teaterbodega.dk\
+| address=Skolegade 7 | lat= | long= | directions=\
+| phone=+45 86 12 19 17 | tollfree= | fax=\
+| hours= | price=mid range\
+| lastedit=2016-01-01\
+| content=With a central location next to Aarhus Theatre, this historic restaurant has served food since 1911. The name Teater Bodega is from 1959. There is a big variety in the meal plan, and the quality is good. The interior is kept in an old traditional Danish design and is an experience in itself.\
+\}\}\
+\
+* \{\{eat\
+| name=Restaurant Pinden | alt= | url=http://www.pinden.dk/ | email=info@teaterbodega.dk\
+| address=Skolegade 29 | lat= | long= | directions=1-2 minute walk from Teater Bodega\
+| phone=+45 86 12 11 02 | tollfree= | fax=\
+| hours= | price=mid range\
+| lastedit=2016-01-03\
+| content=With an old fashioned decor, this place has a varied menu for both lunch and dinner. Authentic traditional dishes, with large filling portions of a great quality. Good value for the money. Special traditional Danish lunch buffet on Saturdays. Try a ''snaps'' (Danish bitter) with your open sandwhich here. A good informal vibe.\
+\}\}\
+\
+* \{\{eat\
+| name=Restaurant Kohalen | alt= | url=http://kohalen.dk/ | email=\
+| address=J\'e6gerg\'e5rdsgade 152-154 | lat= | long= | directions=\
+| phone=+45 86 12 14 81 | tollfree= | fax=\
+| hours= | price=mid range\
+| lastedit=2016-01-01\
+| content=Located in the former slaughter house district of the harbour, this restaurant (from 1907) serves good quality traditional Danish meals. The restaurant is very popular for loud dinner parties and it might be impossible to reserve a seat.\
+\}\}\
+\
+* \{\{eat\
+| name=Liv's Sandwich | alt= | url=http://www.livs-sandwich.dk/ | email=\
+| address=S\'f8nder Alle 2 | lat= | long= | directions=Just around the corner from the central City Hall Square ("R\'e5dhuspladsen")\
+| phone=+45 86 13 27 20 | tollfree= | fax=\
+| hours=All week | price=Budget\
+| lastedit=2016-01-17\
+| content=In this deli and take away, you can try a good selection of Danish open sandwiches. The prices are fair, at DKK 33 - 48 for ''sm\'f8rrebr\'f8d'' (traditional open face sandwich on rye) and just DKK 12 for a ''h\'e5ndmad''.\
+\}\}\
+\
+=== Vegetarian ===\
+There are not many purely dedicated vegetarian dining options in Aarhus, but some restaurants serve vegetarian main courses or have buffet options for vegetarians or vegans. Some places dedicated to vegetarian cuisine are:\
+\
+* \{\{eat\
+| name=Mikuna | url=http://www.mikuna.dk/ | email=kontakt@mikuna.dk\
+| address=Frederiks All\'e9 96 | lat= | long= | directions=Near the western end of J\'e6gerg\'e5rdsgade. Just across the bridge.\
+| phone=+45 28 14 75 45 | tollfree= | fax=\
+| hours=Tue-Sat (12-20) | price=65-75 DKK\
+| lastedit=2016-01-01\
+| content=Vegan restaurant and caf\'e9 with focus on sustainability. Good quality and variety. Everything is made from scratch.\
+\}\}\
+\
+* \{\{eat\
+| name=Glad! | url=http://spisdigglad.dk/#&panel1-1 | email=adm.gladcafe@gmail.com\
+| address=Frederiks All\'e9 127 | lat= | long= | directions=On Frederiksbjerg. 5-10 minutes walk from Mikuna.\
+| phone=+45 86 18 77 33 | tollfree= | fax=\
+| hours=All week (9:30-20:30) | price=55-165 DKK\
+| lastedit=2016-01-01\
+| content=Organic certified (90-100%) diner and caf\'e9. Mostly vegetarian, but not exclusively. Good variety, also with breakfast, brunch and take-away options.\
+\}\}\
+\
+* \{\{eat\
+| name=Caf\'e9 Ganefryd | url=http://www.ganefryd.dk/ | email=\
+| address=Borggade 16 | lat= | long= | directions=In the Latin Quarter\
+| phone=+45 86 13 16 36 | tollfree= | fax=\
+| hours=Mon-Sat | price=\
+| lastedit=2016-01-01\
+| content=Organic caf\'e9 with good variety for vegetarian, vegan and gluten free meals. Owned by the health food store Ganefryd close-by in Klostergade.\
+\}\}\
+\
+* \{\{eat\
+| name=Caf\'e9 Gaya | url=http://www.cafegaya.dk/ | email=\
+| address=Vestergade 43 | lat= | long= | directions=\
+| phone=+45 86 18 14 15 | tollfree= | fax=\
+| hours=Mon-Sat | price=\
+| lastedit=2016-01-01\
+| content=Organic and vegetarian caf\'e9 with good variety. All-you-can-eat lunch buffet 125 DKK and evening buffet 145 DKK. Brunch every Saturday. Cosy decor and sometimes events and music, usually Fridays.\
+\}\}\
+\
+=== Caf\'e9s ===\
+[[File:Caf\'e9 Casablanca.jpg|thumb|Caf\'e9 Casablanca is one of the more prominent caf\'e9s in Aarhus.]]\
+The many caf\'e9s in Aarhus span a diverse range from tiny hole-in-the-walls with two chairs where you can stop and buy something to drink on your way through the city to extravagantly decorated places with mirror rooms and waiters in fancy clothes. Some places serve only the most basic items, while other places offer lunch, evening dinners or cocktails and parties in the night. So whatever you are looking for, it shouldn't be a problem to find a caf\'e9 that suits your taste or pocket. \
+\
+Quite a few caf\'e9s have a strong focus on quality coffee. [http://www.altura.dk/ Altura], [http://www.lacabra.dk/ La Cabra], [http://www.greatcoffee.dk/ Great Coffee] and [https://www.facebook.com/pages/Bills-Coffee/379996775461386 Bill's Coffee] are four exceptional places in this regard, but they get strong competition. The coffee shop chain of [http://streetcoffee.dk/ Street Coffee] is also doing a pretty good job and you can find them at three spots in the inner city. If you do not enjoy coffee, most places also serve hot chocolate or tea, but quality tea is only beginning to catch on and you might want to visit [http://perchs.dk/ A.C.Perch] for the real deal. It is a sister to the celebrated and historic tea store and caf\'e9 in Copenhagen by the same name and you will not be dissappointed. Many caf\'e9s can make you a smoothie, and [http://juicestop.dk/ Juice Stop] and [https://www.joejuice.com/ Joe & The Juice] specialize in juicing fresh fruits and vegetables.\
+\
+The majority of caf\'e9s in Aarhus are unique, each with their own individual charm and character, but several Danish caf\'e9 chains are also present, including Baresso, Emmerys and Anettes Sandwich, and you can find them across the city. [http://baresso.com/ Baresso] mostly focus on quality coffee, but also serves cakes, small meals and tea. With usual spacious rooms and comfortable furniture, they are a good place to sit and chat for a while or rest your legs and read a magazine. If you want something to eat, [http://www.anettessandwich.dk/ Anettes Sandwich] is a better option. [http://www.emmerys.dk/ Emmerys] is a chain of organic bakeries, but each store is also a dining caf\'e9 and here you can get breakfast and brunch too. \
+\
+Breakfast (''morgenmad'' in Danish) is served at most larger caf\'e9s for reasonable prices (DKK 35-80). At some spots it is buffet-style with a good variety, while at other spots it consists of a bun with cheese and jam. The bread is always of a good, filling quality. Some larger caf\'e9s also serve brunch and it is a popular treat on the weekends especially. A few places regularly arrange luxurious brunch servings, sometimes including champagne, like the [http://www.varna.dk/ Varna Palace] in the Marselisborg Forests. Lunch of various kinds, prices and qualities can also be had at many caf\'e9s and there are quite a few deli-shops with healthy fast food options such as salads and sandwiches. Dining caf\'e9s with evening meals are plentiful at the riverside, but also in the Latin Quarter, including [https://www.facebook.com/cafegemmestedet Gemmestedet], [http://www.cafe-englen.dk/ Englen], [http://drudenfuss.dk/ Drudenfuss], [http://www.carlton.dk/ Carlton] and [http://www.casablancaaarhus.dk/cafe-casablanca/ Casablanca]. The shopping streets of J\'e6gerg\'e5rdsgade on Frederiksbjerg and Tordenskjoldsgade on Tr\'f8jborg also have several good ones. \
+\
+Although there is a high concentration in the inner city, caf\'e9s can be found throughout. A few special places might be hard to discover without special mention:\
+\
+* \{\{eat\
+| name=LYNfabrikken | alt= | url=http://www.lynfabrikken.dk/ | email=\
+| address=Vestergade 49 | lat= | long= | directions=In a backyard near the western end of Vestergade\
+| phone= | tollfree= | fax=\
+| hours=9-17 (closed weekends) | price=\
+| lastedit=2016-04-04\
+| content=LYNfabrikken (The Lightning Factory) is an alternative office community for small creative businesses, and it also includes a caf\'e9. Located in an old factory building in a backyard in Vestergade, it has a special aura of old and new and it can be an inspirational visit to have a peek at what is stirring in the creative entrepreneurial milieu of Aarhus. The caf\'e9 is located in the loft of the factory, equipped with a rooftop terrace. A good place to be in the summer for a quick change of scenery and a laid back secludedness in the midst of the bustling central city. The caf\'e9 offers beverages (good coffee), cakes and a small choice of food. It is spacious, well-lit and you can sit here to write, read, chat, relax or glance at books and crafts for sale. LYNfabrikken can be hard to spot, so you might have to investigate a few backyards in the vicinity before you locate it. This is not a bad thing, as you will surely make other interesting discoveries. There is a small exhibition room at the street near the backyard with changing arts and crafts.\
+\}\}\
+* \{\{eat\
+| name=Vinylrock Caf\'e9 | alt= | url=http://www.allgoodcleanrecords.com/record-stores/vinylrock-cafe-aarhus-danmark.php | email=\
+| address=Mejlgade 46 | lat= | long= | directions=\
+| phone=+45 29 86 63 14 | tollfree= | fax=\
+| hours=10-20 (Mon-Sat) | price=\
+| content=At this place they have opened a small rudimentary caf\'e9 in a second hand vinyl record store. There are four other vinyl record stores in Aarhus, but Vinylrock is the only store with a caf\'e9. There used to be a great caf\'e9 and vinyl store in Klostergade for many years, but it closed in 2015. Other places selling vinyl record includes Badstuerock and Dandelion Records, both in the Latin Quarter, Route 66 & Black Light Records in Fredensgade and Pladekisten in J\'e6gerg\'e5rdsgade.\
+\}\}\
+\
+=== Cakes and bread ===\
+Denmark has a long tradition for some unique cakes and good quality breadmaking. You can buy cakes and bread in the usual caf\'e9s or in common bakeries across the city, but some places has put a special effort into the craft of baking and is well worth a visit. \
+\
+[[File:Emmerys (Aarhus).jpg|thumb|Emmerys in Guldsmedgade.]]\
+* \{\{eat\
+| name=Emmerys | alt= | url=http://www.emmerys.dk/ | email=\
+| address=Guldsmedgade (and five other sites) | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours=7-18 | price=mid range\
+| lastedit=2016-01-01\
+| content=Emmerys is a high-quality bakery, specialized in 100% organic food. It is a chain of bakeries with shops in Aarhus and Copenhagen, but it originated in Aarhus in 1918 as a p\'e2tisserie (known as ''Konditori'' in Danish) in Guldsmedgade. There are six Emmerys in Aarhus, with four in the central parts. They all have a nice clean but cosy decor with seatings for dining and some small-talking. Good breakfast and brunch with a good selection of cakes and breads, but also high-end foodstuff like coffee, tea, pickles, marmalade, etc. The opening hours as well as the food for sale vary a little bit from shop to shop, but all are open every day of the week.\
+\}\}\
+\
+* \{\{eat\
+| name=Lagkagehuset | alt= | url=http://www.lagkagehuset.dk/#aabningstider#jylland#aarhus.aspx | email=\
+| address=M. P. Bruunsgade 34 | lat= | long= | directions=Where M. P. Bruunsgade crosses J\'e6gerg\'e5rdsgade\
+| phone= | tollfree= | fax=\
+| hours=6:30 - 19 (18 weekends) | price=Mid range\
+| lastedit=2015-12-25\
+| content=Lagkagehuset offers breads and cakes of a high quality, but also cold confectioners cakes, including various layercakes and creamcakes, some of which are uniquely Danish. If you are looking for cakes specifically, Lagkagehuset has a broader selection than Emmerys. Lagkagehuset is also a Danish chain, but originating in Copenhagen and with only one caf\'e9-shop in Aarhus. Open all days of week and with seating. Classy clean decor. Try a piece of the many kinds of Danish pastry or perhaps an Othello cake (chocolate cream layer cake of Danish origin) with your coffee or tea.\
+\}\}\
+\
+* \{\{eat\
+| name=Schweizer Bageriet | alt= | url=http://www.schweizerbageriet.dk/ | email=\
+| address=M.P. Bruuns Gade 56 | lat= | long= | directions=On Frederiksbjerg, up the hill south of the railway station. Just opposite an Emmerys caf\'e9-shop\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2016-01-01\
+| content=A tasty bakery full of Danish delights - perfect for breakfast. Good sandwiches. It is a traditional bakery with only a couple of seats for eating. Excellent quality and delicious authentic Danish pastry of more than ten varieties. The range of choice for the cakes changes often. There has been a bakery here since 1897, the name of Schweizer Bageriet came in 1956.\
+\}\}\
+[[File:Konditor kager 1.JPG|thumb|Fragelit\'e9 cakes on display at Schweizer Bageriet. With a French sounding name, Fragelit\'e9 is nevertheless a unique Danish cake.]]\
+* \{\{eat\
+| name=Langen\'e6s Bageriet | alt= | url=http://www.langenaesbageriet.dk/ | email=\
+| address=Langen\'e6s All\'e9 14 | lat= | long= | directions=On Frederiksbjerg, near the square of Harald Jensens Plads\
+| phone= | tollfree= | fax=\
+| hours=6-18 (all days) | price=\
+| lastedit=2016-01-01\
+| content=A large bakery with a drive-in. A broad selection of high quality baked goods, bread, buns, cakes, pastries, cream cakes, cookies, etc. Many traditional Danish cakes, including Danish pastries of course. You can stroll and take a good look at the variety on display. They also make high-end chocolate delights, including homemade ''fl\'f8deboller''. Nice clean decor with a section for eating. Coffee, tea, sandwhich and salads too. Large specially designed cakes for celebrations can be ordered. There are two other branches in Aarhus, one in H\'f8jbjerg and another in Risskov.\
+\}\}\
+* \{\{eat\
+| name=Brian\'e7on | alt= | url=http://www.briancon.dk/ | email=\
+| address=\'c5boulevarden 53 | lat= | long= | directions=\
+| phone=+45 86 12 43 93 | tollfree= | fax=\
+| hours=Open from 7 every day | price=\
+| lastedit=2016-03-23\
+| content=At this small but great bakery you can watch the bakers at work and also buy quality coffee beans and champagne. They only use butter for baking here, no cheap substitutes, but the prices are very reasonable relative to the high quality. The shop is administered by a brother and a sister since 2006 and is located at the riverside, but at a less busy place.\
+\}\}\
+* \{\{eat\
+| name=Sm\'e5kagehuset | alt=Sm\'e5kage Huset | url=http://smaakagehuset.dk/index-en.html | email=\
+| address=Fredriks All\'e9 102 | lat= | long= | directions=Just across the bridge on Frederiks All\'e9\
+| phone=+45 86 13 73 44 | tollfree= | fax=\
+| hours=Closed Monday and Sunday | price=mid-range\
+| lastedit=2016-03-30\
+| content=This is another small, quality bakery. Owned and run by a couple (both bakers), this place has a large variety of bread and cakes. The name ''Sm\'e5kagehuset'' means "The Cookie House" and their broad and changing selection of cakes also includes cookies. Denmark has a long tradition for some unique cookies and is well-known for its export of butter cookies. At Sm\'e5kagehuset you can pick and choose you own mix of Danish cookies, including ''vanillekranse'', ''j\'f8dekager'' and ''finsk br\'f8d'' but also other types, like the Italian-style biscotti. If you have a hard time choosing, just take your time or simply ask the bakers themselves about their baked goods, as they also works as sales clerks and are happy to chat and explain. As a specialty you can also buy sugar-free cakes here and baked goods certified for consumption by diabetics. There are a few chairs inside and a bench outside on the pavements.\
+\}\}\
+\
+The traditional bread in Denmark is ''Rugbr\'f8d'', a special kind of dark and dense sourdough, wholemeal rye bread, and it is still a popular choice, especially for ''sm\'f8rrebr\'f8d''. Common white bread, locally known as ''franskbr\'f8d'' (French Bread), is equally popular and available everywhere. \
+ \
+Special cakes are made around Christmas and Carnival. Special Christmas cakes includes ''julekage'' (a large Danish pastry with marzipan, Corinthian raisins, succade and nuts), ''pebern\'f8dder'' (small peppery cookies, traditionally used for a number of games) and ''klejner'' (deep fried rhombus shaped dough, flavoured with cardamom and lemon zest and only slightly sweet) and for Carnival in February it includes a variety of ''fastelavnsboller'' (Carnival-buns), which usually comprise pastry creme filled buns with icing and flaky pastry cakes filled with a whipped cream mix and redcurrant jelly.\
+\
+==Drink==\
+Aarhus has a robust and lively nightlife for those who are looking for a night on the town. The city can deliver everything from big mainstream clubs to small alternative hangouts playing niche music. Aarhus's large student population fuels a major part of the partying - which tends to keep prices reasonable -, but not exclusively. Prices for food and drink are generally higher than in other parts of Europe, but cheaper than Copenhagen and with several budget options. The action tends to concentrate around J\'e6gerg\'e5rdsgade, Frederiksgade, \'c5boulevarden, Vestergade, Latin Quarter, Mejlgade and N\'f8rregade. The popular fashionable riverside (''\'c5en'' in Danish) has a very lively nightlife with a good variety, but it is also the most expensive area.\
+\
+The nightlife in Denmark and Aarhus is quite safe. As a side note, the nightlife in Aarhus has, in the last 25-30 years, occasionally been plagued with gangs of young immigrants, primarily of Middle Eastern descent harassing people, smashing windows and bars or selling drugs. These incidents might be rarer these days, but if you are a group of young males with a Middle Eastern look, be aware that you could risk being denied access to some of the more popular spots. Young immigrants in Aarhus have raised this situation as a matter of concern.\
+\
+The most widely available Danish beers are Tuborg, Carlsberg and Ceres. With a 150 year old history in Aarhus, Ceres was by many considered the "beer of Aarhus", with Ceres TOP as the flagship pilsner, but the beer is not brewed locally anymore. Most places also serve other well-known international brands and most places serve them draft. A few spots, like '''Ris Ras''' and '''Cockney Pub''', has specialized in quality beers in the recent decade or so and offers a large variety for the beer-connoisseur. '''[http://aarhusbryghus.dk/homepage/english/ Aarhus Brewery]''' in Viby is a local micro-brewery worth investigating. They make a good variety and is on sale in most well-assorted shops and some pubs and bars as well. There is also a small shop at the brewery and occasional events and beer tastings are arranged here. '''[http://bryggeriet.dk/eng/breweries/sct-clemens-aarhus Sct. Clements Brewery]''' across the main theatre also brews quality draft beer, to be enjoyed at their Hereford restaurant or brought home.\
+\
+=== Riverside ===\
+[[File:AarhusRiver.jpg|thumb|Aarhus river]]\
+* \{\{drink\
+| name=Castenskiold | url=http://www.castenskiold.net/html/90 | email=\
+| address=\'c5boulevarden 32 | lat= | long= | directions=\
+| phone=+45 86 55 22 23 | tollfree= | fax=\
+| hours=M-Th 10-midnight,F-Sa 10-02,Su 10-17 | price=\
+| lastedit=2016-01-02\
+| content=Sunny cafe during the day and sizzling bar at night, sleek design and creative cocktails, has become something of a clubhouse for city's design and fashion elite.\
+\}\}\
+\
+* \{\{drink\
+| name=Fidel's | url=http://www.fidels.dk/ | email=\
+| address=\'c5boulevarden 25, | lat= | long= | directions=\
+| phone=+45 86 20 24 28 | tollfree= | fax=\
+| hours=Th 19-03,F-Sa 19-05 | price=\
+| lastedit=2016-01-02\
+| content=Fashionable cocktail bar at the riverside. Age limit 23 on weekends.\
+\}\}\
+\
+* \{\{drink\
+| name=Herr Bartels | url=http://www.herrbartels.dk/ | email=\
+| address=\'c5boulevarden 46 | lat= | long= | directions=\
+| phone=+45 86 18 08 33 | tollfree= | fax=\
+| hours=Th 20-??,F-Sa 20-04 | price=\
+| lastedit=2016-01-02\
+| content=Longest bar in town, serving the best drinks and cocktails. Nice atmosphere, cheerful crowd and drinks for 50 DKK a piece is considered cheap. Recommended.\
+\}\}\
+\
+* \{\{drink\
+| name=Der Kuhstall | url=http://www.derkuhstall.dk/ | email=\
+| address=\'c5boulevarden 22 | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours=M-Th 16-midnight,F-Sa 12-05 | price=\
+| lastedit=2016-01-02\
+| content=Large, German-style "Bier Bar" at the river.\
+\}\}\
+\
+* \{\{drink\
+| name=R\'f6mer | alt= | url=http://www.caferomer.dk/ | email=\
+| address=\'c5boulevarden 50 | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours= | price=Beer 40kr. Drinks 45kr.\
+| lastedit=2016-01-02\
+| content=Very good club with blasting tunes.\
+\}\}\
+\
+* \{\{drink\
+| name=ZenZa Cocktailbar | alt=ZenZa \'c5rhus | url=http://www.zenza.dk | email=info@zenza.dk\
+| address=\'c5boulevarden 30 | lat=56.1551882 | long=10.2104518 | directions=\
+| phone=+45 50 40 20 30 | tollfree= | fax= \
+| hours=Th 21:00-05:00, Fr-Sa 23:00-05:00 | price=\
+| lastedit=2016-01-02\
+| content=Zenza Cocktailbar\'92s main focus is high quality and good service. Here they offer a wide variety of delicious cocktails, also shots, beer, and wine. ZenZa is more than \'91just\'92 a cocktail bar, and the party really gets started when the DJ starts play music.\
+\}\}\
+* \{\{drink\
+| name=Noir Club | alt= | url=http://www.noirclub.dk | email=info@noirclub.dk\
+| address=\'c5boulevarden 21, 8000 Aarhus C | lat=56.1550 | long=10.2100 | directions=\
+| phone=+45 20 81 61 89 | tollfree= | fax=\
+| hours=Fr-Sa 23:00-05:00 | price=\
+| lastedit=2016-02-20\
+| content=\
+\}\}\
+\
+=== Skolegade ===\
+Skolegade is a sidestreet to the riverside of \'c5boulevarden, terminating near the mouth of the Aarhus River at the harbour front. It is an old narrow street with a long history of bars and nightclubs. Most of the action is near the riverside, but you can take a short walk up the street and change the scene, as it merges with Mejlgade in the Latin quarter. \
+\
+* \{\{drink\
+| name=Escobar | alt= | url=https://www.facebook.com/escobaraarhus | email=\
+| address=Skolegade 32 | lat= | long= | directions=\
+| phone=+45 86 13 79 26 | tollfree= | fax=\
+| hours=19-05 | price=Budget\
+| lastedit=2016-03-12\
+| content=This is a small bar and nightclub with a hang for metal, and it includes small free live concerts every Tuesday night. Apart from metal, the DJs also plays hard rock and reggae and the audience is quite mixed. Just come as you are. Film and music quiz Mondays. The owners runs a number of similar establishments across Denmark. Aarhus has a thriving metal scene and at Escobar you have a chance to hear some of the local bands.\
+\}\}\
+\
+* \{\{drink\
+| name=G-bar | alt= | url=http://gbar.dk/ | email=\
+| address=Skolegade | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2016-01-02\
+| content=Aarhus' gay and lesbian club. \
+\}\}\
+\
+* \{\{drink\
+| name=Fatter Eskil | alt= | url=http://www.fattereskil.dk/ | email=mail@fattereskil.dk\
+| address=Skolegade 25 | lat= | long= | directions=\
+| phone=+45 21 35 44 11 | tollfree= | fax=\
+| hours=closed Sunday and Monday | price=Budget (Entry fee DKK 40-80, draft beer DKK 25 , 10 shots DKK 100)\
+| lastedit=2016-03-12\
+| content=Fatter Eskil is a popular bar but also a music venue (see the Concert-section), housed in an old building from the 1700s. With its long history as music venue since 1973, it is an institution in the Aarhusian nightlife. Usually free admission until 22 hours. Fatter Eskil (''Pappa Eskil'') has a nice warmed patio with a grill that usually serve grilled sausages.\
+\}\}\
+\
+* \{\{drink\
+| name=Meat Packers | alt= | url=http://www.meatpackers.dk | email=hello@meatpackers.dk\
+| address=Skolegade 23 | lat=56.1553 | long=10.2116 | directions=\
+| phone=+45 22 58 00 79 | tollfree= | fax=\
+| hours=We-Th 21:00-03:00; Fr-Sa 22:00-05:00 | price=\
+| lastedit=2016-02-20\
+| content=\
+\}\}\
+\
+=== Latin Quarter ===\
+* \{\{drink\
+| name=Ris Ras Filliongongong | alt= | url=http://www.risras.dk/ | email=\
+| address=Mejlgade 24 | lat= | long= | directions=\
+| phone=+45 86 18 50 06 | tollfree= | fax=\
+| hours=M-Sa noon-02,Su 14-19 | price=\
+| lastedit=2016-01-02\
+| content=Also just known as ''Ris Ras'', this cozy and alternative bar offers a great variety of beers and rums. When the tiny bar gets packed, you can find more secluded - but not less cozy - rooms in the basement. At Ris Ras you can smoke and try a hookah.\
+\}\}\
+\
+* \{\{drink\
+| name=L\'f8ve's | url=http://www.loeves.dk/ | email=\
+| address=Borggade 14 and N\'f8rregade 32 | lat= | long= | directions=\
+| phone=+45 52 17 50 16 | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2016-01-02\
+| content=Relaxed winebar and deli at Borggade and equally relaxed bookstore, caf\'e9 and winebar at N\'f8rregade just 100 yards away. The main spot at N\'f8rregade also hosts occasional book and poetry nights, wine tasting and other events. Mixed and chatty crowd.\
+\}\}\
+\
+* \{\{drink\
+| name=Heidi's Bier Bar | url=http://www.aarhus.heidisbierbar.dk | email=\
+| address=Klostergade 34 | lat= | long= | directions=\
+| phone=+45 87 48 00 03 | tollfree= | fax=\
+| hours=20-05 Wed-Sat | price=\
+| lastedit=2016-01-03\
+| content=A German style Beirstube with a large beer collection and J\'e4germeister. Kitschy but with tongue-in-cheek. Dance on the tables to some German Schlager if you fancy. Many young people (age limit is 20). You can find Heidi's Bier Bars in many other major cities in Denmark and Oslo also has one.\
+\}\}\
+\
+* \{\{drink\
+| name=Den Sidste | alt= | url=http://cafeparadis.dk/ | email=\
+| address=Paradisgade 9 | lat= | long= | directions=At the top floor loft above the art cinema.\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2016-01-02\
+| content=Literally "The last one" in Danish. Fills up when other clubs close up. Beer (20kr) and drinks. Dance floor and DJ's on most nights.\
+\}\}\
+\
+=== Frederiksgade ===\
+[[File:The Golden Lion Pub.JPG|thumb|The Golden Lion Pub in Frederiksgade. The pedestrianized city centre has a lively nightlife and bus routes connects to the suburban areas, reducing the risks of alcohol-related accidents.]]\
+\
+* \{\{drink\
+| name=Sherlock Holmes | alt= | url=http://www.sherlock-holmes.dk/ | email=\
+| address=Frederiksgade 76 | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2016-01-02\
+| content=Nice big pub with only-English speaking staff. Decorated with Victorian inspiration from the Sherlock Holmes novels. Good draft beers and a decent drinks selection. Live music most weekends. Pubquiz on Monday nights and televised major sports events.\
+\}\}\
+\
+* \{\{drink\
+| name=Die Kleine Bierstube | url=http://www.kleine-bierstube.dk | email=\
+| address=Frederiksgade 75 | lat= | long= | directions=\
+| phone=+45 86 13 67 64 | tollfree= | fax=\
+| hours=M-Th noon-01,F noon-03,Sa 11-03 | price=\
+| lastedit=2016-01-02\
+| content=German style bar with very good German draft beers. Authentic decor and dressed up staff. You can eat here too. A good mix of guests. Close to the City Hall Square.\
+\}\}\
+\
+* \{\{drink\
+| name=Tir Na N\'f3g | alt= | url=http://tirnanog.dk/ | email=andreas@tirnanog.dk\
+| address=Frederiksgade 40 | lat= | long= | directions=\
+| phone=+45 86 19 19 10 | tollfree= | fax=\
+| hours=All week | price=\
+| lastedit=2016-01-18\
+| content=A genuine Irish pub with nice decor and a festive atmosphere. Good selection of Irish whiskeys, but also many Scotch. Live music every Thursday, Friday and Saturday. Good chance for some decent Irish music you can dance or sing along to. Televised major sports events. Pub quiz every Thursday night.\
+\}\}\
+\
+* \{\{drink\
+| name=Sharks | alt= | url=http://sharks.dk/ | email=mail@sharks.dk\
+| address=Frederiksgade 25 | lat= | long= | directions=At the first floor of Busgadehuset, a central car parking house\
+| phone=+45 86 18 09 90 | tollfree= | fax=\
+| hours=All week | price=Pool tables DKK 1-2 per minute (Cocktails from DKK 45)\
+| lastedit=2016-01-18\
+| content=While Sharks is not dedicated to drinking specifically, it is a popular spot worth mentioning in a section about the nightlife in Aarhus. At Sharks you can play pool, eat or relax with a drink or a beer in a cosy lounge. Also other games. Good burgers and nachos. Major sports events are televised. Friendly atmosphere. With 26 pool tables, Sharks is the largest poolhall in Denmark.\
+\}\}\
+\
+* \{\{drink\
+| name=Hos Anders | alt= | url=http://www.hosanders.dk/ | email=\
+| address= | lat= | long= | directions=Below Sharks in the same building\
+| phone= | tollfree= | fax=\
+| hours= | price=Beer 20 DKK\
+| lastedit=2016-01-02\
+| content=Frederiksgade 25. Occasional live music, mostly jazz.\
+\}\}\
+\
+* \{\{drink\
+| name=Waxies | alt= | url=http://waxies.dk/ | email=\
+| address=Frederiksgade 16 | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2016-01-02\
+| content=Irish pub near the river. Live music on most weekends and pub quiz Wednesday nights. Televised football events.\
+\}\}\
+\
+=== Other places ===\
+[[File:K.P.s G\'e5rd 03.jpg|thumb|The atrium at Jacob\'92s. Caf\'e9 in the day, restaurant, music venue and bar in the night.]]\
+* \{\{drink\
+| name=Kupe | url=http://www.kupe.dk | email=\
+| address=Toldbodgade 6 | lat= | long= | directions=In the ground floor at First Hotel Atlantic at the harbour front. Part of Train.\
+| phone=+45 86 13 47 22 | tollfree= | fax=\
+| hours=Fri from 24, Sat from 23 | price=Beer 45kr.\
+| lastedit=2016-01-03\
+| content=Could be called Aarhus' main nightclub. Good cocktails and DJ's. Young fashionable crowd mostly. Age limit is 21. Entry fee.\
+\}\}\
+\
+* \{\{drink\
+| name=Thorups K\'e6lder | alt= | url=https://www.facebook.com/Thorupskaelder.dk | email=thorupskaelder@hotmail.com.\
+| address=Store Torv 3 | lat= | long= | directions=Go to the main square in front of the Aarhus Cathedral\
+| phone=+45 20 60 00 34 | tollfree= | fax=\
+| hours=Fri-Sat: 9-03 | price=Free\
+| lastedit=2016-01-03\
+| content=Located in the city\'92s oldest basement, reputedly built in the 13th century by Cistercian monks. Today you can enjoy a drink or two and a game of dice in this basement bar where you can almost hear the rustling sound of the monks\'92 habits sweeping across the floor. New owner in 2016, with change of opening hours and with a new concept they call Fun Pub.\
+\}\}\
+\
+* \{\{drink\
+| name=Bernhardt Natklub | alt= | url=http://www.bernhardt-aarhus.dk/ | email=alexander@bernhardt-aarhus.dk\
+| address=Store Torv 3 | lat= | long= | directions=Go to the main square in front of the Aarhus Cathedral\
+| phone=+45 60 17 79 64 | tollfree= | fax=\
+| hours=Fri-Sat: 23-05 | price=\
+| lastedit=2016-03-12\
+| content=This dance and nightclub is built in a former bank box in the basement next to the Thorups K\'e6lder. If you are a party, it is possible to reserve your own table. Age limit is 20 on Fridays and 22 on Saturdays.\
+\}\}\
+\
+* \{\{drink\
+| name=Jacob\'92s barBQ | alt= | url=http://jacobsbarbq.dk/ | email=\
+| address=Vestergade 3 | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2016-01-03\
+| content=Situated in one of Aarhus' oldest houses, Jacobs also includes a caf\'e9, pita barbeque and a large restaurant, known for its top of the line beefsteaks. A separate piano bar at an open-air cobblestone atrium, with a small scene for occasional live music. Cosy and warm surroundings. Mixed audience.\
+\}\}\
+\
+* \{\{drink\
+| name=Vestergade 58| alt=V58 | url=http://www.nyv58.dk/ | email=\
+| address=Vestergade 58 | lat= | long= | directions=Near the western end of Vestergade\
+| phone= | tollfree= | fax=\
+| hours= | price=\
+| lastedit=2016-01-03\
+| content=In a backyard of a beautifully restored yellow-black timber-framed merchant's house in Vestergade, Vestergade 58 has been a small popular music venue for 40 years. Also equipped with a bar and a separate scene used for stand-up comedy nights. Mostly up-and-coming performers for the comedy, with free admission. Brunch served on Sundays.\
+\}\}\
+\
+* \{\{drink\
+| name=SLM | alt= | url=http://slm-aarhus.dk/ | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours=22-04 (Fri-Sat) | price=\
+| lastedit=2016-01-02\
+| content=Gay leather and fetish bar.\
+\}\}\
+\
+* \{\{drink\
+| name=Flintstone | url=http://www.flintstonepub.dk | email=\
+| address=Rosenkrantzgade 20 | lat= | long= | directions=Across the "Svalegangen" theatre\
+| phone=+45 86 12 43 44 | tollfree= | fax=\
+| hours=M-W 13-01,Th-F 13-02,Sa 10-02,Su 16-01 | price=Beer 35kr\
+| lastedit=2016-01-02\
+| content=A small but cozy pub in Irish style, not far from the main shopping street of ''Str\'f8get''. Nice and friendly staff! Good selection of beers and whiskey. Sometimes televised major sports events. Live music on some Fridays and Saturdays.\
+\}\}\
+\
+=== Bodega and v\'e6rtshus ===\
+[[File:Bro Caf\'e9.JPG|thumb|Bro Caf\'e9, an old style ''v\'e6rtshus''.]]\
+In Denmark, ''bodega'' means a traditional Danish bar or Danish pub if you will. Bodegas has a long cultural history in Denmark and is somewhat similar to an English pub in their concept, but only a few places offers meals and live music. You could warm up here before going to a concert or a fancy club or you can drop in for a coffee or a beer in the afternoon. It should be fairly easy to find yourself engaged in a conversation at these places if you care, as the majority of people are here to socialize and unwind. Some examples includes\uc0\u720 \
+\
+* \{\{drink\
+| name=Bodegaen | alt= | url=https://www.facebook.com/pages/Bodegaen/288372364934?fref=ts | email=\
+| address=\'c5boulevarden 33 | lat= | long= | directions=Under the Clemens bridge, below "Str\'f8get"\
+| phone= | tollfree= | fax=\
+| hours=All week | price=Ceres TOP 25 DKK\
+| lastedit=2016-01-02\
+| content=Located at the river, this new hip place is only a few years old, but equipped as an iconic old fashioned bodega. Enjoy a beer and play some dart, a game of dice, carom (''bob'' in Danish) or some table football for a bit of fun. Table football is currently a quite popular "sport" in Denmark for young people, and some places hosts competitions. Bodegaen has similar joints in Silkeborg and Odense.\
+\}\}\
+\
+* \{\{drink\
+| name=Pinds Caf\'e9 | url=https://www.facebook.com/pindscafeaarhus/?fref=ts | email=\
+| address=Skolegade 11 | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours=closed Sun | price=\
+| lastedit=2016-01-03\
+| content=Originally owned by a Mrs. Elna Pind, this small place has been a bodega since 1936. Old historic photographs on the walls. Smoking allowed. Sometimes DJ's or live music.\
+\}\}\
+\
+* \{\{drink\
+| name=Peter Gift | alt= | url=http://petergift.dk/ | email=\
+| address=M. P. Bruuns Gade 28 | lat= | long= | directions=Near the southwest entrance to Brunn's Galleri\
+| phone=+45 86 12 01 63 | tollfree= | fax=\
+| hours=All week | price=\
+| lastedit=2016-01-03\
+| content=Perhaps the oldest surviving bar in Aarhus, since 1906. Nice decor, relaxed atmosphere, secluded corners and a backyard garden. A good selection of beers. Lunch Tuesday and Saturday, but reservations are required. Smoking is restricted to the backyard.\
+\}\}\
+ \
+* \{\{drink\
+| name=Jakob Skomager Vinstue | url= | email=\
+| address=Frederiks Alle 149 | lat= | long= | directions=In the far end of Frederiks All\'e9 on Frederiksbjerg\
+| phone= | tollfree= | fax=\
+| hours=All week | price=Ceres TOP 15 DKK\
+| lastedit=2016-01-03\
+| content=One of several old fashioned bodegas on Frederiksbjerg. Televised football. Smoking allowed. Mixed crowd.\
+\}\}\
+\
+* \{\{drink\
+| name=Boulevard Cafeen | alt= | url=https://www.facebook.com/pages/Boulevard-Cafeen/120570001343016 | email=\
+| address=Odensegade 45 | lat= | long= | directions=\
+| phone=+45 86 12 37 02 | tollfree= | fax=\
+| hours=All week (9-01) | price=\
+| lastedit=2016-01-03\
+| content=Also on Frederiksbjerg, this bodega is popular with AGF football fans (AGF is the local club) before and after matches at the Ceres stadion. Historic place from 1944 and with an old fashioned ordinary decor. Smoking allowed. The bodega is situated at the end of the long Ingerslevs Boulevard, hence the name. Enjoy a coffee or a beer here when [http://ingerslevtorv.dk/ the markets] at the boulevard are open Wednesday and Saturday mornings (8-14).\
+\}\}\
+\
+In the older days, when alcohol was seen as a basic thirst quencher for the working man, bars were much more abundant. They were waterholes with the sole purpose of serving cheap beers on all hours and all days of the week. Times have changed, but there are still some old fashioned bars left in Aarhus, some of them with their own peculiar charm. The Danish word for these bars are ''v\'e6rtshus''. Apart from the colloquial Ceres TOP pilsner, most places could also serve you an "Aarhus set", by adding an Arnbitter on the side.\
+\
+* \{\{drink\
+| name=Kurts Mor | url=http://www.kurtsmor.dk/Kurts_Mor/Forside.html | email=\
+| address=Fredens Torv 7 | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours=Tue-Sat | price=Beer 10 DKK\
+| lastedit=2016-01-03\
+| content=Traditional bar with cheap beers. Cheap drinks on Tuesdays 10 DKK.\
+\}\}\
+\
+* \{\{drink\
+| name=Cirkuskroen | url=http://www.cirkuskroen.dk/ | email=\
+| address=Skovvejen 23 | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| hours=All week | price=Beer 18 DKK\
+| lastedit=2016-01-03\
+| content=Traditional ''v\'e6rtshus'' a bit out of the central scene, close to Tr\'f8jborg. With a long history and formerly owned by a famous circus-family, this bar is decorated with clowns and old circus paraphernalia. Try a "circus-set" for 36 DKK.\
+\}\}\
+\
+==Sleep==\
+Prices for hotels are generally higher than in other parts of Europe, but there are a number budget options of a good quality.\
+\
+Apart from the well known hotels listed below, there are also options for small bed and breakfasts, usually located out of the central scene, private stays and holiday rentals.\
+\
+===Budget===\
+[[File:Pavillionen i Riisskov.jpg|thumb|The Danhostel in the beautiful and tranquil forest-park of Riis Skov just north of the city centre.]]\
+\
+* \{\{sleep\
+| name=Aarhus Camping | alt= | url=http://www.aarhuscamping.dk/en/ | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax= \
+| checkin= | checkout= | price=\
+| content=Camp site, 4&nbsp;km north of Aarhus\
+\}\}\
+\
+* \{\{sleep\
+| name=Blommehaven Camping | alt= | url=http://www.camping-blommehaven.dk/plads.asp?dcuLan=2 | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| price= | checkin= | checkout=\
+| content=Camp site in the beautiful Marselisborg Forest, 5&nbsp;km south of the city center. Can be reached with bus.\
+\}\}\
+\
+* \{\{sleep\
+| name=Danhostel | alt= | url=http://www.danhostel.dk/composite-280.htm?HostelId=59&RegionAbb=OJ | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| price= | checkin= | checkout=\
+| content=The hostel is in the forest about 3&nbsp;km north of town. Can be reached by bus. 15-20 min walk from the city centre. You can both store and make your own food here and save.\
+\}\}\
+\
+* \{\{sleep\
+| name=City Sleep-in | alt= | url=http://www.citysleep-in.dk/engelsk_version/welcome.htm | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| price= | checkin= | checkout=\
+| content=Basic hostel in Havnegade in the city center 5&nbsp;min from the train station. Functional but rather spartan, and not very clean. Dormitory from \'8018.\
+\}\}\
+\
+===Mid-range===\
+[[File:Hotel Royal (Aarhus) 02.JPG|thumb|Hotel Royal, right in the city centre.]]\
+[[File:Comwell, Aarhus.JPG|thumb|The new modern Comwell hotel in the tall central Aarhus City Tower.]]\
+* \{\{sleep\
+| name=Best Western The Mayor Hotel | alt= | url=http://www.themayor.dk | email=hotel@themayor.dk\
+| address=Banegaardspladsen 14 | lat=56.1509 | long=10.2028 | directions=\
+| phone=+45 87320100 | tollfree= | fax=\
+| checkin=15.00 | checkout=11.00 | price=From 600 kr.\
+| lastedit=2015-06-24\
+| content=A modern town hotel which has been refurbished in 2015. The Mayor Hotel offers a large breakfast made by an in-house baker and serves special roasted coffee and fresh pressed orange juice. There is also a good evening hotel restaurant. All this just beside the shopping street and train yard.\
+\}\}\
+* \{\{sleep\
+| name=Cab Inn | alt= | url=http://www.cabinn.com/english/aarhus/aarhus.html | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| price= | checkin= | checkout=\
+| content=Right in the center between the Cathedral and \'c5en. Rooms go from \'8071 (single) to \'80103 (triples). The rooms are quite small but a TV and private shower and toilet are included. Two stars\
+\}\}\
+* \{\{sleep\
+| name=First Hotel Atlantic | alt= | url=http://www.firsthotels.dk/Vore-Hoteller/Hoteller-i-Danmark/Arhus/First-Hotel-Atlantic/ | email=\
+| address= | lat= | long= | directions=At the square of Europaplads at the river mouth\
+| phone= | tollfree= | fax=\
+| price= | checkin= | checkout=\
+| content=Set in a modern building with views across the harbor and the city. Three stars.\
+\}\}\
+* \{\{sleep\
+| name=Havnehotellet | alt= | url=http://www.havnehotellet.dk | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| checkin= | checkout= | price=\
+| content=A clean hotel in the Marselisborg marina. The hotel is unmanned and so check-in is done on a computer. The marina is a nice place to sit and watch the sunset with a bottle of wine from the vending machine! (no mini-bars) and is only a 15 minute walk from the main city centre, although you can catch the bus if you want. There are a couple of restaurants and an ice-cream shop there so you don't have to leave the marina if you don't want to.\
+\}\}\
+* \{\{sleep\
+| name=Helnan Marselis Hotel | alt= | url=http://www.helnan.info/page666.aspx | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| checkin= | checkout= | price=\
+| content=Situated a bit out of the central scene, near the park of Mindeparken in the Marselisborg Forests overlooking the bay. This monumental waterfront hotel was designed by Danish architects Friis and Molkte and completed in 1967. Four stars.\
+\}\}\
+* \{\{sleep\
+| name=Hotel Guldsmeden Aarhus | alt= | url=http://www.hotelguldsmeden.dk/aarhus/ | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| checkin= | checkout= | price=\
+| content=Small hotel in the older central parts of town known as the Latin Quarter. Two stars. Nice patio.\
+\}\}\
+* \{\{sleep\
+| name=Hotel Ritz | alt= | url=http://www.bestwestern.dk/overview.asp?hotelid=39 | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| price= | checkin= | checkout=\
+| content=Best Western hotel, just next to the train station. Three stars.\
+\}\}\
+* \{\{sleep\
+| name=Hotel Oasia | alt= | url=http://www.hoteloasia.dk/index.html | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| checkin= | checkout= | price=\
+| content=Hotel opened June 2008, furnished with Nordic design. Close to the central station right in the city centre, but in a quiet location.\
+\}\}\
+* \{\{sleep\
+| name=Hotel Royal | alt= | url=http://www.hotelroyal.dk/ENindex.asp | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| checkin= | checkout= | price=\
+| content=Luxury hotel in the centre. Four stars. Historic hotel from 1838. The hotel restaurant of Queens Garden is a good French inspired mid-range restaurant. English garden and casino. Nice decorations and designs overall. Study the creative bronze sculptures at the hotel main entrance made by the local artist Hans Krull. He runs his own bar and caf\'e9 "Under Masken" just next door.\
+\}\}\
+* \{\{sleep\
+| name=Radisson SAS Scandinavia Hotel Arhus | alt= | url=http://www.aarhus.radissonsas.com/cs/Satellite/Page/seo/RadissonSAS/hotel/en/hotelCode--aarzh/seo_page--seo_aarhus_rsas/subPage--index.html/useSeo--true/ | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| checkin= | checkout= | price=\
+| content=Large hotel in minimal brick exterior, at the square of Margrethepladsen, right in the city center. Next to the Scandinavian Congress Center, the Concert Halls, Godsbanen, ARoS Art museum, the City Hall and the long pedestrian shopping street of ''Str\'f8get''. Four stars. Gourmet hotel restaurant [http://www.lapyramide.dk/ La Pyramide] of superb quality.\
+\}\}\
+* \{\{sleep\
+| name=Scandic Aarhus Vest | alt= | url=http://www.scandichotels.com/Hotels/Countries/Denmark/Aarhus/Hotels/Scandic-Arhus/ | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| price= | checkin= | checkout=\
+| content=Built in 1989, a six-storey hotel two kilometres from the Old Town and four kilometres from the city center and train station. Three stars.\
+\}\}\
+\
+* \{\{sleep\
+| name=Scandic Aarhus City | alt= | url=http://www.scandichotels.com/Hotels/Denmark/Aarhus/Arhus-City/ | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax=\
+| price= | checkin= | checkout=\
+| content=Large, very new hotel (opened 2012) in the city centre, right next to the main pedestrian street and just a few hundred metres from the central station.\
+\}\}\
+* \{\{sleep\
+| name=Zleep Hotel Aarhus | alt= | url=http://www.hotel-mercur.dk/en/home/ | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax= \
+| checkin= | checkout= | price=499 DKK\
+| content=A modern tower situated just outside the centre in Viby, near the main approach roads to the city, 500 meters from the E45 motorway. Three stars.\
+\}\}\
+\
+===Splurge===\
+* \{\{sleep\
+| name=Comwell Aarhus | alt= | url=http://www.comwellaarhus.dk/ | email=\
+| address= | lat= | long= | directions=\
+| phone=+45 8672 8000 | tollfree= | fax= \
+| checkin= | checkout= | price=1298 DKK\
+| content=Brand new design hotel (opened summer 2014) with 240 rooms, located in the city's newest and tallest highrise, Aarhus City Towers. Four stars.\
+ \}\}\
+* \{\{sleep\
+| name=Hotel Villa Provence | alt= | url=http://www.villaprovence.dk/hotel-aarhus-engelsk/hotel-aarhus.html | email=\
+| address= | lat= | long= | directions=\
+| phone= | tollfree= | fax= \
+| checkin= | checkout= | price=1400 DKK\
+| content=A small French oasis bursting with an almost private atmosphere and character. Four stars.\
+\}\}\
+\
+== Connect ==\
+\
+=== Wi-Fi ===\
+Aarhus Municipality has made its Wi-Fi free and public. Known as [http://www.smartaarhus.eu/ Smart Aarhus], it can be freely accessed in and around most public institutions and from many larger public squares and parks as well, day and night.\
+\
+Most larger caf\'e9s has a free Wi-Fi network.\
+\
+=== Computers ===\
+If you need to use a computer, you can use one of many freely available stationary computers at Dokk1 library on the harbour front. They use the Ubuntu Linux operating system and you can also go online through an sms-authentification system.\
+\
+== Cope ==\
+\
+=== Accessibility ===\
+In Denmark, it is easy for the physically disabled to get around on their own. All newer buildings - and quite a few older ones as well - are specially equipped for this, with ramps, elevators, lifts and sometimes escalators. With a thought for the visually impaired, the traffic lights at the busiest spots in Aarhus are equipped with beeping sounds, signalling walk or stop. Guide dogs are allowed in most places, even in some cinemas, and personnel are unusually friendly and helpful towards the handicapped. \
+\
+=== Poverty and begging ===\
+Before the turn of the century, it was extremely rare to see anyone in Denmark begging in the streets, apart from a few native homeless people and vagabonds who often had chosen this peculiar lifestyle. In Aarhus, you will probably encounter homeless people selling the magazine Hus Forbi (''House Passed''). More rarely, you could perhaps also meet a few vagabonds in the summertime; easily noticeable by their clothing, pushing along a baby carriage with their dog and friends on the side. Both groups are usually harmless and do not beg aggressively. You could even have some small-talk with most of them. Since the 2000's however, Denmark has experienced an influx of foreign beggars to the larger cities. This phenomenon does not come near the levels you might encounter outside of Scandinavia. You will perhaps bump into some of these illegal immigrants on your way around the city, and they can sometimes behave quite annoying. Be aware though, that begging is illegal in Denmark and handing money to the first one you meet, will not make the next one hesitate.\
+\
+===Street salespeople===\
+Foreign beggars, a possible minor nuisance, are largely overshadowed by the army of trained street salespeople, known locally as "facers", that can't be avoided in Aarhus. They are everywhere in the pedestrian zone. Their goal is to sell deals on utility bills, new mobile phone subscriptions, and just about everything you had no idea you needed. The facer-troops also include young people on persistent reconnaissance for potential subscribers to all kinds of humanitarian causes. They can be harder to dismiss, but remember that even if you sign up in support for some Amnesty International campaign, it won't stop the next facer trying to get your support for the exact same cause only 2 minutes later.\
+\
+=== Consulates ===\
+* \{\{listing\
+| name=Germany | alt=Consul Finn Prang-Andersen | url= | email=\
+| address=Havnegade 4 | lat= | long= | directions=\
+| phone=+45 86 18 25 88 | tollfree= | fax=\
+| hours= | price=\
+| content=\
+\}\}\
+* \{\{listing\
+| name=Greece | url= | email=info@sindingco.dk\
+| address=Havnegade 4, 4 sal, PO Box 280 | lat= | long= | directions=\
+| phone=+45 86 76 14 14 | tollfree= | fax=+45 86 76 13 13\
+| hours= | price=\
+| content=\
+\}\}\
+* \{\{listing\
+| name=Italy | alt=Consul Henning Holmen M\'f8ller | url= | email=\
+| address=Lille Torv 6 | lat= | long= | directions=\
+| phone=+45 86 12 14 00 | tollfree= | fax=\
+| hours= | price=\
+| content=\
+\}\}\
+* \{\{listing\
+| name=Japan | alt=Consul-General J\'f8rgen E. Handberg | url= | email=\
+| address=Dalgas Avenue 57 | lat= | long= | directions=\
+| phone=+45 86 18 03 22 | tollfree= | fax=\
+| hours= | price=\
+| content=\
+\}\}\
+* \{\{listing\
+| name=Netherlands | alt=Consul S\'f8ren Lund | url= | email=\
+| address=Sct. Clemens Str\'e6de 7 | lat= | long= | directions=\
+| phone=+45 86 12 50 00 | tollfree= | fax=\
+| hours= | price=\
+| content=\
+\}\}\
+* \{\{listing\
+| name=Norway | alt=Consul Heine Bach | url= | email=\
+| address=Store Torv 1 | lat= | long= | directions=\
+| phone=+45 89 33 36 19 | tollfree= | fax=\
+| hours= | price=\
+| content=\
+\}\}\
+* \{\{listing\
+| name=Spain | alt=c/o CFJE | url= | email=\
+| address=Olof Palmes All\'e9 11 | lat= | long= | directions=\
+| phone=+45 86 19 02 22 | tollfree= | fax=\
+| hours= | price=\
+| content=\
+\}\}\
+* \{\{listing\
+| name=United Kingdom | alt=Consul Claus Herluf | url= | email=\
+| address=Skolegade 19 B | lat= | long= | directions=\
+| phone=+45 87 30 77 77 | tollfree= | fax=\
+| hours= | price=\
+| content=\
+\}\}\
+\
+==Go next==\
+=== Close by ===\
+* Aarhus is surrounded by beautiful beech forests; take a stroll or do some green exercise in the urban forest-park of Riis Skov just north of the city centre or the extensive Marselisborg Forests along the southern coast. Each of the four seasons has its own particular charms, but the leaf bursting beech trees in early May is something special. \
+\
+[[File:Marselisborg Dyrehave.jpg|thumb|''Dyrehaven'' in Marselisborg Forests. Aarhus has some nice woodlands, beaches and countryside within easy reach.]]\
+:* In '''Riis Skov''' you can spice up the trip with some great dining at the romantic ''[http://www.casablancaaarhus.dk/sjette-frederiks-kro/ Sjette Frederiks Kro]''. In the summertime you can also buy ice creams, coffee or hot dogs at one of two forest kiosks and take a swim, play or soak up some sun at the public seabath of ''Den Permanente''. There are facilities here for some beach grilling also, just bring coal and food. If you would like to explore the city more, you should try to take a walk through the adjacent neighbourhood of ''Tr\'f8jborg''. It is officially part of the city centre, but Tr\'f8jborg has its own particular charm, a bit like a small town within the city.    \
+\
+:* In the larger '''Marselisborg Forests''' (''Marselisborgskovene'') there are several options. Try to pay a visit to the '''[https://www.aarhus.dk/da/borger/natur-og-miljoe/Ud-i-naturen/Friluftsliv/Marselisborg-Dyrehave.aspx deer park]''' (''Dyrehaven'') for example. It is best to visit in April-May or August. Bring some carrots or apples to feed the deers if you like. Outstanding dining at [http://frederikshoj.com/ Fredriksh\'f8j Kro], great dining at [http://www.varna.dk/ Varna Pal\'e6et], [http://www.thorsmoelle.dk/ Thors M\'f8lle] and [http://www.helnan.dk/marselis/restaurant-marselis Marselis Hotel - Aarhus (Helnan)]. All close to the deer park.\
+\
+::In the Marselisborg forests you can also hike/bike/drive or take a bus to '''Moesg\'e5rd''', a section of the forests further south. Here you can experience the marked history trail from the Moesgaard Museum right down to the sea, with reconstructed Stone Age, Iron Age and Viking houses and tombs, rune stones etc.. There is a good caf\'e9 at the museum itself, you can choose to have an excellent lunch or evening meal at [http://restaurantunico.dk/ Restaurant UNICO] at the golf course close to the museum, have a great lunch at the medieval ''[http://restaurantunico.dk/index.php?option=com_content&view=article&id=2&Itemid=103&menuParent=103 Skovm\'f8llen]'' restaurant in the forests, or you can bring your own food as many of the locals do when they picnic at the large grassy areas at the beach in the summer months.\
+\
+* As a coastal city, there are many beaches to walk around Aarhus, just remember to bring warm clothes from October through early April. East Jutland is known for some good surf, angling and sports fishing opportunities [http://www.angling-eastjutland.dk/] and you could use Aarhus as a base.\
+\
+*In the village of Lisbjerg just north of Aarhus, you can visit '''[http://www.park13.dk/park.aspx Den Japanske Have]''', an authentic Japanese Garden laid out in traditional chisen-kaiyu style designed for promenading. The garden - which has no entry fee - is rather large and varied at more than 10,000 m2, and there is a restaurant and caf\'e9 here to, known as '''Park13'''. The garden is open from 10-17 on the weekends and the restaurant is open for lunch from 11-16. In the winter months, until Easter, the garden and restaurant are both closed, but larger events such as concerts are occasionally arranged here at that time. It takes 10-15 minutes to drive to the Japanese Garden by car from the city centre of Aarhus. Several bus lines also connects from the central bus station or you could take the trip on a bicycle; a bike path leads all the way along Randersvej.\
+\
+=== Day trips and further travels ===\
+[[File:Rosenholm sydost.jpg|thumb|Rosenholm Castle. There are several interesting historic manors in the countryside around Aarhus.]]\
+* There are a number of beautiful '''castles and manor houses''' located a short car ride (30 minutes to an hour) away from Aarhus. Options include Moesg\'e5rd Manor, Vilhelmsborg, Rosenholm Slot, Frijsenborg Slot and Gammel Estrup. Moesg\'e5rd Manor is located next to the new Moesg\'e5rd Museum, but only the outside grounds and the manor park is accessible. Vilhelmsborg (3km southwest of Moesg\'e5rd Manor) has a very good restaurant and a nice park and forest, a riding college and hosts a large amateur theatre play once in the summer. [http://www.gammelestrup.dk/ Gammel Estrup] 25km north of Aarhus and near Randers, is a museum and perhaps the best choice for event seekers. Here you can experience the inside of the manor first hand and several events are held throughout the year. [http://rosenholm.dk/ Rosenholm Slot] by Hornslet is a private residence, but offers occasional guided tours. Frijsenborg (at Hammel) is also a private residence, but situated in a beautiful forested countryside and close to [http://poetmoelle.dk/ P\'f8t M\'f8lle], an excellent restaurant and inn in an old timber framed milling house.\
+\
+* '''[http://djurssommerland.dk/ Djurs Sommerland]''', amusement park has Denmark's largest rollercoaster. Can be reached with buses 121, 122 and 123 in 1h15. Discount if buying your entrance ticket in the bus (you only pay DKK20 extra for the bus trip there and back).\
+\
+* Several '''nearby cities''' can be done in a day trip, with Aarhus as a base. Cities that might interest a traveller, includes [[Randers]], [[Gren\'e5]], [[Silkeborg]], [[Skanderborg]], [[Horsens]], [[Vejle]] and [[Ebeltoft]]. If you plan your daytrip well and get up in the morning, you might even make interesting and eventful one-day outings to [[Viborg]], [[Aalborg]] or [[Odense]]. Copenhagen is a 3 hour train ride away, but a bit longer if you go by bus or car.\
+\
+* '''[[Ebeltoft]]''' is a quaint little town about an hour bus ride away. You can catch bus 123 with a day ticket costing DKK125 (you can use this to also get out to the airport if arriving/leaving the same day). It has one main cobblestone street lined with shops and cafes and you can visit the glass museum (it has a mirror room that you can walk in!) or the world's longest wooden ship. The actual bus ride there takes you through some lovely green hilly countryside too. Just make sure you get off at the station called Ebeltoft C rather than waiting till the end of the line which is the Ebeltoft bus station... unless you enjoy a bit of a walk which one could say is a nice way to view the residential streets one wouldn't normally have done! Ebeltoft has a ferry connection to Zealand.\
+\
+* Visit the '''Kal\'f8 castle ruins''' 20km north of Aarhus and breathe in some nature scenery from the hilltops of the new '''[http://nationalparkmolsbjerge.dk/ Mols Bjerge National Park]'''. This trip can be combined with some excellent dining at [http://www.molskroen.dk/ Molskroen] in the cosy rural village of Femm\'f8ller or perhaps a travel further east to Ebeltoft.\
+\
+* Drive south to the nearby village of Hou and take the 1 hour ferry to the island of '''[[Sams\'f8]]'''. Hou is well served by both buses and train too, or if you are fit you can bike there; it is a safe and pleasant trip in itself. You can spend the day doing Sams\'f8 and even stay overnight, as there are several excellent hotels and good opportunities for some quality dining on the island. If you are here for a day trip only, drive/bike to Nordby, Nordby Bakker and perhaps Stavns Fjord. From Sams\'f8 you can continue your trip to Zealand, so you don't have to backtrack.   \
+\
+* If you are in Scandinavia or Denmark for hiking, the long distance '''[http://www.aarhus.dk/~/media/Dokumenter/Teknik-og-Miljoe/Natur-og-Miljoe/Ud-i-naturen/brochurer-og-foldere/Vandreruten-Aarhus-Silkeborg.ashx Aarhus-Silkeborg hiking trail]''' starts of from the city centre of Aarhus. from \'c5parken to be specific. The first part of the trail includes the ''Brabrandstien'' pathway along the Aarhus River, Brabrand Lake and \'c5rslev Lake further west. It is a beautiful trail to walk, and leads to the historically interesting and scenic landscape known as ''S\'f8h\'f8jlandet'' (The Lake Highlands) near Silkeborg. The Mols Bjerge National Park close by on Djursland also invites for good hiking experiences.\
+\
+* '''The Maguerite Route'''. The national [http://www.visitdenmark.co.uk/en-gb/margueriteroute Maguerite Route] (''Margueritruten'') passes through or can be started off from Aarhus. It is a self-drive route marked out to highlight the most picturesque areas and sites in Denmark.\
+\
+\
+\{\{routebox\
+| image1=Tabliczka E45.svg\
+| imagesize1=22\
+| directionl1=N\
+| majorl1=[[Aalborg]]\
+| minorl1=[[Randers]]\
+| directionr1=S\
+| majorr1=[[Kolding]]\
+| minorr1=[[Skanderborg]]\
+\}\}\
+\
+\{\{geo|56.15|10.217\}\}\
+\{\{guidecity\}\}\
+\{\{IsPartOf|East Jutland\}\}\
+\
+[[WikiPedia:Aarhus]]\
+[[Commons:Aarhus]]\
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-------------------------------xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx}
