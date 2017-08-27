@@ -9,7 +9,8 @@ class AnswerToUserQuestion:
 
     """
     def __init__(self, ques):
-        self.ques = ques
+        
+	self.ques = ques
         pass
 
     def question_from_user(self):
